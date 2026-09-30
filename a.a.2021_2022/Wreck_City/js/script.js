@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",function(event){var swiper=new Swiper(".swiper",{slidesPerView:"auto",centeredSlides:true,pagination:{clickable:true},loop:true,autoplay:{delay:5e3,disableOnInteraction:true},scrollbar:{el:".swiper-scrollbar",hide:false}})});

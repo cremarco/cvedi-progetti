@@ -1,0 +1,57 @@
+[
+  {
+    "id": "P001",
+    "name": "Visita ortopedica",
+    "preparation": "Porta eventuali radiografie o referti precedenti."
+  },
+  {
+    "id": "P002",
+    "name": "Ecografia addominale",
+    "preparation": "Digiuno di almeno 6 ore. Bere acqua senza gas prima dell'esame."
+  },
+  {
+    "id": "P003",
+    "name": "Elettrocardiogramma (ECG)",
+    "preparation": "Nessuna preparazione necessaria. Rilassati prima dell'esame. Evita sforzi fisici subito prima."
+  },
+  {
+    "id": "P004",
+    "name": "Holter pressorio",
+    "preparation": "Indossa abiti comodi. Non fare sforzi intensi durante il monitoraggio."
+  },
+  {
+    "id": "P005",
+    "name": "Risonanza magnetica (RMN)",
+    "preparation": "Segui le indicazioni del medico, evita oggetti metallici. Comunica eventuali claustrofobie."
+  },
+  {
+    "id": "P006",
+    "name": "Radiografia al torace",
+    "preparation": "Rimuovere eventuali oggetti metallici prima dell'esame. Informa il personale se ti trovi in una situazione di gravidanza."
+  },
+  {
+    "id": "P007",
+    "name": "Tampone naso-faringeo",
+    "preparation": "Non lavarsi i denti o mangiare nei 30 minuti precedenti l'esame."
+  },
+  {
+    "id": "P008",
+    "name": "Visita cardiologica",
+    "preparation": "Porta con te gli esami precedenti. Non serve essere a digiuno. Ricordati di indossare abiti comodi"
+  },
+  {
+    "id": "P009",
+    "name": "Visita di fisioterapia",
+    "preparation": "Porta eventuali radiografie, referti e l’elenco dei farmaci assunti. Indossa abiti comodi per consentire l’esame clinico."
+  },
+  {
+    "id": "P010",
+    "name": "Visita neurologica",
+    "preparation": "Porta con te eventuali esami precedenti (es. EEG, TAC, RMN). Evita il consumo di caffeina nelle 4 ore precedenti la visita."
+  },
+  {
+    "id": "P011",
+    "name": "Esame del sangue completo",
+    "preparation": "Presentarsi a digiuno da almeno 8 ore."
+  }
+]

@@ -1,0 +1,1 @@
+document.querySelectorAll(".prevent-drag-click").forEach(link=>{let startX,startY;link.addEventListener("mousedown",function(e){startX=e.clientX;startY=e.clientY});link.addEventListener("click",function(e){const endX=e.clientX;const endY=e.clientY;const diffX=Math.abs(endX-startX);const diffY=Math.abs(endY-startY);if(diffX>5||diffY>5){e.preventDefault();e.stopPropagation()}})});

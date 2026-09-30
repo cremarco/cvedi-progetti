@@ -1,0 +1,1 @@
+*,*::before,*::after{box-sizing:border-box}*{margin:0}img{max-width:100%}body{-webkit-font-smoothing:antialiased;min-height:100dvh;width:100%;overflow-x:hidden}input,button,textarea,select{font:inherit}button{background:transparent;border:none;padding:0;color:inherit;text-align:inherit}p,h1,h2,h3,h4,h5,h6{overflow-wrap:break-word}

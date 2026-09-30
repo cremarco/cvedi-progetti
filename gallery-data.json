@@ -1,0 +1,384 @@
+{
+  "photos": [
+    {
+      "name": "Osservatorio astronomico",
+      "A.A.": "2020-2021",
+      "url": "/a.a.2020_2021/osservatorio-astronomico/"
+    },
+    {
+      "name": "I fiori del bene",
+      "A.A.": "2020-2021",
+      "url": "/a.a.2020_2021/i-fiori-del-bene/"
+    },
+    {
+      "name": "Oceanus",
+      "A.A.": "2020-2021",
+      "url": "/a.a.2020_2021/oceanus/"
+    },
+    {
+      "name": "Il labirinto",
+      "A.A.": "2020-2021",
+      "url": "/a.a.2020_2021/il-labirinto/"
+    },
+    {
+      "name": "Afrika Twende",
+      "A.A.": "2020-2021",
+      "url": "/a.a.2020_2021/afrika-twende/"
+    },
+    {
+      "name": "A.P.R.I. Onlus",
+      "A.A.": "2020-2021",
+      "url": "/a.a.2020_2021/a-p-r-i-onlus/"
+    },
+    {
+      "name": "Arcobaleno",
+      "A.A.": "2020-2021",
+      "url": "/a.a.2020_2021/arcobaleno/"
+    },
+    {
+      "name": "La Pecora nera",
+      "A.A.": "2020-2021",
+      "url": "/a.a.2020_2021/la-pecora-nera/"
+    },
+    {
+      "name": "Dimensione Animale Bergamo",
+      "A.A.": "2020-2021",
+      "url": "/a.a.2020_2021/dimensione-animale-bergamo/"
+    },
+    {
+      "name": "L'Aliante",
+      "A.A.": "2020-2021",
+      "url": "/a.a.2020_2021/l-aliante/"
+    },
+    {
+      "name": "Comitato per il parco regionale della Brughiera",
+      "A.A.": "2020-2021",
+      "url": "/a.a.2020_2021/comitato-per-il-parco-regionale-della-brughiera/"
+    },
+    {
+      "name": "Tu con noi",
+      "A.A.": "2020-2021",
+      "url": "/a.a.2020_2021/tu-con-noi/"
+    },
+    {
+      "name": "Protetto",
+      "A.A.": "2020-2021",
+      "url": "/a.a.2020_2021/protetto/"
+    },
+    {
+      "name": "I colori di Matteo",
+      "A.A.": "2020-2021",
+      "url": "/a.a.2020_2021/i-colori-di-matteo/"
+    },
+    {
+      "name": "SDEA ONLUS",
+      "A.A.": "2020-2021",
+      "url": "/a.a.2020_2021/sdea-onlus/"
+    },
+    {
+      "name": "Api & Bio",
+      "A.A.": "2020-2021",
+      "url": "/a.a.2020_2021/api-bio/"
+    },
+    {
+      "name": "SOS Villaggi dei bambini Saronno",
+      "A.A.": "2020-2021",
+      "url": "/a.a.2020_2021/sos-villaggi-dei-bambini-saronno/"
+    },
+    {
+      "name": "Akawa Project",
+      "A.A.": "2021-2022",
+      "url": "/a.a.2021_2022/Akawa_Project/"
+    },
+    {
+      "name": "May Von Bay",
+      "A.A.": "2021-2022",
+      "url": "/a.a.2021_2022/may-von-bay/"
+    },
+    {
+      "name": "Aquaria",
+      "A.A.": "2021-2022",
+      "url": "/a.a.2021_2022/Aquaria/"
+    },
+    {
+      "name": "Astrea",
+      "A.A.": "2021-2022",
+      "url": "/a.a.2021_2022/Astrea/"
+    },
+    {
+      "name": "BAHARI",
+      "A.A.": "2021-2022",
+      "url": "/a.a.2021_2022/BAHARI/"
+    },
+    {
+      "name": "Unicity",
+      "A.A.": "2021-2022",
+      "url": "/a.a.2021_2022/unicity/"
+    },
+    {
+      "name": "Artiestad",
+      "A.A.": "2021-2022",
+      "url": "/a.a.2021_2022/artiestad/"
+    },
+    {
+      "name": "Kalypso",
+      "A.A.": "2021-2022",
+      "url": "/a.a.2021_2022/Kalypso/"
+    },
+    {
+      "name": "Komorebi",
+      "A.A.": "2021-2022",
+      "url": "/a.a.2021_2022/Komorebi/"
+    },
+    {
+      "name": "Oasis",
+      "A.A.": "2021-2022",
+      "url": "/a.a.2021_2022/Oasis/"
+    },
+    {
+      "name": "Ostasia",
+      "A.A.": "2021-2022",
+      "url": "/a.a.2021_2022/Ostasia/"
+    },
+    {
+      "name": "Retropolis",
+      "A.A.": "2021-2022",
+      "url": "/a.a.2021_2022/Retropolis/"
+    },
+    {
+      "name": "Rockstad",
+      "A.A.": "2021-2022",
+      "url": "/a.a.2021_2022/Rockstad/"
+    },
+    {
+      "name": "Onrail Express",
+      "A.A.": "2021-2022",
+      "url": "/a.a.2021_2022/onrail-express/"
+    },
+    {
+      "name": "The Amazonia Project",
+      "A.A.": "2021-2022",
+      "url": "/a.a.2021_2022/The_Amazonia_Project/"
+    },
+    {
+      "name": "Utopia",
+      "A.A.": "2021-2022",
+      "url": "/a.a.2021_2022/Utopia/"
+    },
+    {
+      "name": "VeniceBric",
+      "A.A.": "2021-2022",
+      "url": "/a.a.2021_2022/VeniceBric/"
+    },
+    {
+      "name": "Rudbeckia",
+      "A.A.": "2021-2022",
+      "url": "/a.a.2021_2022/rudbeckia/"
+    },
+    {
+      "name": "Vice City",
+      "A.A.": "2021-2022",
+      "url": "/a.a.2021_2022/vice-city/"
+    },
+    {
+      "name": "Wreck City",
+      "A.A.": "2021-2022",
+      "url": "/a.a.2021_2022/Wreck_City/"
+    },
+    {
+      "name": "Oak City",
+      "A.A.": "2021-2022",
+      "url": "/a.a.2021_2022/oak-city/"
+    },
+    {
+      "name": "BicoccaBottom",
+      "A.A.": "2022-2023",
+      "url": "/a.a.2022_2023/BicoccaBottom/"
+    },
+    {
+      "name": "Ch4nge",
+      "A.A.": "2022-2023",
+      "url": "/a.a.2022_2023/Ch4nge/"
+    },
+    {
+      "name": "Cinergy",
+      "A.A.": "2022-2023",
+      "url": "/a.a.2022_2023/Cinergy/"
+    },
+    {
+      "name": "EcoCity",
+      "A.A.": "2022-2023",
+      "url": "/a.a.2022_2023/EcoCity/"
+    },
+    {
+      "name": "Elysium",
+      "A.A.": "2022-2023",
+      "url": "/a.a.2022_2023/Elysium/"
+    },
+    {
+      "name": "Fisherbot",
+      "A.A.": "2022-2023",
+      "url": "/a.a.2022_2023/Fisherbot/"
+    },
+    {
+      "name": "Fridge for nature",
+      "A.A.": "2022-2023",
+      "url": "/a.a.2022_2023/Fridge_for_nature/"
+    },
+    {
+      "name": "Goodrive",
+      "A.A.": "2022-2023",
+      "url": "/a.a.2022_2023/Goodrive/"
+    },
+    {
+      "name": "Greenway",
+      "A.A.": "2022-2023",
+      "url": "/a.a.2022_2023/Greenway/"
+    },
+    {
+      "name": "NETtuNO",
+      "A.A.": "2022-2023",
+      "url": "/a.a.2022_2023/nettuno/"
+    },
+    {
+      "name": "PinchPym",
+      "A.A.": "2022-2023",
+      "url": "/a.a.2022_2023/PinchPym/"
+    },
+    {
+      "name": "PlastEat",
+      "A.A.": "2022-2023",
+      "url": "/a.a.2022_2023/PlastEat/"
+    },
+    {
+      "name": "ReUse",
+      "A.A.": "2022-2023",
+      "url": "/a.a.2022_2023/ReUse/"
+    },
+    {
+      "name": "Rooting For Nature",
+      "A.A.": "2022-2023",
+      "url": "/a.a.2022_2023/rooting-for-nature/"
+    },
+    {
+      "name": "Sealife",
+      "A.A.": "2022-2023",
+      "url": "/a.a.2022_2023/sealife/"
+    },
+    {
+      "name": "SustAnimals",
+      "A.A.": "2022-2023",
+      "url": "/a.a.2022_2023/SustAnimals/"
+    },
+    {
+      "name": "TavolaRasa",
+      "A.A.": "2022-2023",
+      "url": "/a.a.2022_2023/TavolaRasa/"
+    },
+    {
+      "name": "Undergrowing",
+      "A.A.": "2022-2023",
+      "url": "/a.a.2022_2023/Undergrowing/"
+    },
+    {
+      "name": "iFarm",
+      "A.A.": "2022-2023",
+      "url": "/a.a.2022_2023/iFarm/"
+    },
+    {
+      "name": "AetherCraft Creations",
+      "A.A.": "2023-2024",
+      "url": "/a.a.2023_2024/aethercraft-creations/"
+    },
+    {
+      "name": "Gemtopia",
+      "A.A.": "2023-2024",
+      "url": "/a.a.2023_2024/gemtopia/"
+    },
+    {
+      "name": "Crypto Zoology Unlimited",
+      "A.A.": "2023-2024",
+      "url": "/a.a.2023_2024/crypto-zoology-unlimited/"
+    },
+    {
+      "name": "Serenity Dream Travels",
+      "A.A.": "2023-2024",
+      "url": "/a.a.2023_2024/serenity-dream-travels/"
+    },
+    {
+      "name": "Socks Fusion Innovations",
+      "A.A.": "2023-2024",
+      "url": "/a.a.2023_2024/socks-fusion-innovations/"
+    },
+    {
+      "name": "AstroMed",
+      "A.A.": "2024-2025",
+      "url": "/a.a.2024_2025/AstroMed/"
+    },
+    {
+      "name": "AstroVeggie",
+      "A.A.": "2024-2025",
+      "url": "/a.a.2024_2025/AstroVeggie/"
+    },
+    {
+      "name": "Progetto CVeDI-consegna",
+      "A.A.": "2024-2025",
+      "url": "/a.a.2024_2025/Progetto_CVeDI-consegna/"
+    },
+    {
+      "name": "Temporal-Paws",
+      "A.A.": "2024-2025",
+      "url": "/a.a.2024_2025/Temporal-Paws/"
+    },
+    {
+      "name": "Totem Magrathea",
+      "A.A.": "2024-2025",
+      "url": "/a.a.2024_2025/Totem_Magrathea/"
+    },
+    {
+      "name": "Xylos",
+      "A.A.": "2024-2025",
+      "url": "/a.a.2024_2025/Xylos/"
+    },
+    {
+      "name": "Nexus",
+      "A.A.": "2024-2025",
+      "url": "/a.a.2024_2025/nexus/"
+    },
+    {
+      "name": "Aroma",
+      "A.A.": "2025-2026",
+      "url": "/a.a.2025_2026/aroma/"
+    },
+    {
+      "name": "DineCraft",
+      "A.A.": "2025-2026",
+      "url": "/a.a.2025_2026/dinecraft/"
+    },
+    {
+      "name": "DISH-KI",
+      "A.A.": "2025-2026",
+      "url": "/a.a.2025_2026/dish-ki/"
+    },
+    {
+      "name": "Eden Leaf",
+      "A.A.": "2025-2026",
+      "url": "/a.a.2025_2026/eden-leaf/"
+    },
+    {
+      "name": "Krusty Krab",
+      "A.A.": "2025-2026",
+      "url": "/a.a.2025_2026/krusty-krab/"
+    },
+    {
+      "name": "Mise-en-Thropic",
+      "A.A.": "2025-2026",
+      "url": "/a.a.2025_2026/mise-en-thropic/"
+    },
+    {
+      "name": "Riff",
+      "A.A.": "2025-2026",
+      "url": "/a.a.2025_2026/riff/"
+    }
+  ]
+}

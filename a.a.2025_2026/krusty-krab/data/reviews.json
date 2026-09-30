@@ -1,0 +1,110 @@
+{
+  "home": [
+    {
+      "title": "Un'esperienza mitica",
+      "rating": 5,
+      "text": "Mangiare al Krusty Krab è sempre stato il mio sogno. I Krabby Patty sono ancora meglio di quanto immaginassi. Atmosfera imbattibile!"
+    },
+    {
+      "title": "Il meglio dell'oceano",
+      "rating": 4,
+      "text": "Servizio veloce e cibo delizioso. Chef Branchia era molto indaffarato, ma il panino era perfetto. Tornerò sicuramente."
+    },
+    {
+      "title": "Delizioso!",
+      "rating": 5,
+      "text": "La formula segreta è reale! Non ho mai mangiato un hamburger così saporito sotto il livello del mare. Cinque stelle meritatissime."
+    },
+    {
+      "title": "Molto buono",
+      "rating": 4,
+      "text": "Ottima location e cibo di qualità. Un po' affollato nelle ore di punta, ma l'attesa vale assolutamente la pena per un classico Patty."
+    },
+    {
+      "title": "Incredibile",
+      "rating": 5,
+      "text": "Il miglior ristorante sottomarino di sempre. Pulito, accogliente e con i panini più famosi dell'oceano. Un must per tutti."
+    }
+  ],
+  "krabby-patty": [
+    {
+      "title": "Leggendario",
+      "rating": 5,
+      "text": "Il classico intramontabile. La carne è succosa e la salsa segreta è semplicemente divina. Non puoi dire di aver vissuto senza averne provato uno."
+    },
+    {
+      "title": "Perfezione nel piatto",
+      "rating": 5,
+      "text": "Ogni ingrediente è al posto giusto. Il pane è soffice e il formaggio fuso avvolge tutto in un abbraccio di sapore oceanico."
+    },
+    {
+      "title": "Ottimo Burger",
+      "rating": 4,
+      "text": "Molto saporito e ben presentato. Si sente la freschezza degli ingredienti. Chef Zanna ha superato se stesso stavolta!"
+    },
+    {
+      "title": "Sapore unico",
+      "rating": 4,
+      "text": "Non c'è niente di simile sulla terraferma. È il re dei panini per un motivo. Porzioni generose e gusto esplosivo."
+    },
+    {
+      "title": "Il mio preferito",
+      "rating": 5,
+      "text": "Vengo qui apposta per questo panino. È la definizione di comfort food sottomarino. Magnifico!"
+    }
+  ],
+  "sponge-cake": [
+    {
+      "title": "Dolcezza tropicale",
+      "rating": 5,
+      "text": "La Sponge Cake all'ananas è la fine del mondo. Soffice, fresca e con quel tocco di vaniglia che la rende indimenticabile."
+    },
+    {
+      "title": "Un capolavoro",
+      "rating": 5,
+      "text": "Il bilanciamento tra l'acidità dell'ananas e la dolcezza della crema è perfetto. Chef Polly crea delle vere magie dolciarie."
+    },
+    {
+      "title": "Soffice come una nuvola",
+      "rating": 4,
+      "text": "Veramente leggera e gustosa. Le diverse consistenze dell'ananas sono un tocco di classe. Ottima scelta per il dessert."
+    },
+    {
+      "title": "Sorprendente",
+      "rating": 4,
+      "text": "Non sono un amante dei dolci alla frutta, ma questa torta mi ha fatto ricredere. Presentazione impeccabile e sapore delicato."
+    },
+    {
+      "title": "Da provare assolutamente",
+      "rating": 5,
+      "text": "Se amate l'ananas, non potete perderla. È come un raggio di sole in fondo all'oceano. Fantastica."
+    }
+  ],
+  "bottino": [
+    {
+      "title": "I miei figli lo adorano",
+      "rating": 5,
+      "text": "Il menù bimbi è perfetto. Le porzioni sono giuste e il regalo incluso fa sempre la felicità dei più piccoli. Ottimo lavoro Chef Hippo!"
+    },
+    {
+      "title": "Divertente e buono",
+      "rating": 4,
+      "text": "Il packaging a forma di scrigno è un'idea geniale. Il cibo è semplice ma di qualità, perfetto per i palati dei bambini."
+    },
+    {
+      "title": "Scelta vincente",
+      "rating": 5,
+      "text": "Finalmente un ristorante dove i bambini mangiano tutto volentieri. Il Bottino del Pesciolino è una garanzia di pace a tavola."
+    },
+    {
+      "title": "Un tesoro di sapore",
+      "rating": 4,
+      "text": "Molto apprezzato dal mio piccolo pirata. Ingredienti sani e presentazione che stimola la fantasia. Consigliatissimo."
+    },
+    {
+      "title": "Perfetto per le famiglie",
+      "rating": 5,
+      "text": "Il miglior rapporto qualità prezzo per i bambini in tutto il ristorante. Completo, gustoso e divertente. Top!"
+    }
+  ]
+}

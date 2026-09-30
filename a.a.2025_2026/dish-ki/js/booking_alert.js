@@ -1,0 +1,1 @@
+function setupBookingForm(){const form=document.getElementById("bookingForm");const modalElement=document.getElementById("successModal");if(form&&modalElement){const successModal=new bootstrap.Modal(modalElement);form.onsubmit=function(event){event.preventDefault();successModal.show();form.reset()}}}setupBookingForm();

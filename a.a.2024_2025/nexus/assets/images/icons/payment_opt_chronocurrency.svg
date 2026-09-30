@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Livello_2" data-name="Livello 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 342.5 461.3">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #67c2c6;
+      }
+    </style>
+  </defs>
+  <g id="Livello_2-2" data-name="Livello 2">
+    <g>
+      <path class="cls-1" d="M342.5,73.5L253.46,0H89.04L0,73.5l158.66,157.15L0,387.8l89.04,73.5h164.42l89.04-73.5-158.66-157.15,158.67-157.15ZM26.38,74.7L95.4,17.71h151.69l69.03,56.99-144.88,143.49L26.38,74.7ZM316.12,386.6l-69.03,56.99H95.4l-69.03-56.99,144.88-143.49,144.87,143.49Z"/>
+      <rect class="cls-1" x="111.55" y="80.22" width="119.15" height="17.71"/>
+      <rect class="cls-1" x="111.55" y="368.01" width="118.45" height="17.71"/>
+    </g>
+  </g>
+</svg>

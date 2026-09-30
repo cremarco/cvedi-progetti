@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",function(){new Splide(".splide",{perPage:5,rewind:true,breakpoints:{992:{perPage:2},768:{perPage:1}}}).mount()});

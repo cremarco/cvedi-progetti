@@ -1,0 +1,145 @@
+[
+  {
+    "id": "cardiology",
+    "name": "Cardiologia",
+    "category": "Reparto",
+    "categoryId": "ward",
+    "location": {
+      "floor": "Secondo piano",
+      "entrance": "Ala 2"
+    },
+    "phone": "+345 2020876",
+    "info": "Il reparto di Cardiologia AstroMed si occupa della prevenzione, diagnosi e trattamento delle malattie cardiovascolari.",
+    "opening-hours": {
+      "week": "8:30 - 19:00",
+      "weekend": "9:00 - 13:00"
+    },
+    "description": "Presso il nostro reparto operano cardiologi esperti che offrono consulti specialistici, esami diagnostici e monitoraggio delle principali patologie cardiache, come ipertensione, aritmie, insufficienza cardiaca e cardiopatie ischemiche.",
+    "performances": [
+      "Elettrocardiogramma (ECG)",
+      "Ecocardiografia",
+      "Test da sforzo",
+      "Monitoraggio Holter 24h"
+    ]
+  },
+
+  {
+    "id": "information-center",
+    "name": "Centro informazioni",
+    "category": "Servizi",
+    "categoryId": "services",
+    "location": {
+      "floor": "Piano terra",
+      "entrance": "Ingresso 1"
+    },
+    "phone": "+345 2020876",
+    "info": "Il Centro informazioni fornisce assistenza, orientamento e supporto a tutti i visitatori della struttura.",
+    "opening-hours": {
+      "week": "7:30 - 19:30",
+      "weekend": "8:00 - 14:00"
+    },
+    "description": "Lo staff è disponibile per rispondere a domande generali, fornire indicazioni, stampare documenti utili e assistere i pazienti nel processo di accettazione.",
+    "performances": [
+      "Accoglienza visitatori",
+      "Informazioni su reparti e orari",
+      "Stampa ticket e prenotazioni",
+      "Assistenza linguistica di base"
+    ]
+  },
+
+  {
+    "id": "pharmacy",
+    "name": "Farmacia Galattica",
+    "category": "Servizi",
+    "categoryId": "services",
+    "location": {
+      "floor": "Piano terra",
+      "entrance": "Ingresso 1"
+    },
+    "phone": "+345 2020876",
+    "info": "La Farmacia Galattica fornisce medicinali, dispositivi medici e consulenze farmaceutiche a pazienti e personale sanitario.",
+    "opening-hours": {
+      "week": "8:30 - 18:00",
+      "weekend": "9:00 - 12:30"
+    },
+    "description": "Oltre alla distribuzione dei farmaci, la farmacia offre servizi di consulenza, gestione della terapia e preparazioni galeniche personalizzate.",
+    "performances": [
+      "Fornitura di farmaci prescritti",
+      "Consulenze su terapie farmacologiche",
+      "Distribuzione dispositivi medici",
+      "Preparazioni galeniche"
+    ]
+  },
+
+  {
+    "id": "analysis-lab",
+    "name": "Laboratorio analisi",
+    "category": "Reparto",
+    "categoryId": "ward",
+    "location": {
+      "floor": "Secondo piano",
+      "entrance": "Ala 2"
+    },
+    "phone": "+345 2020876",
+    "info": "Il Laboratorio analisi si occupa di esami di laboratorio ematochimici, microbiologici e molecolari.",
+    "opening-hours": {
+      "week": "7:00 - 16:00",
+      "weekend": "Chiuso"
+    },
+    "description": "Grazie a strumentazione avanzata e personale specializzato, eseguiamo analisi rapide e affidabili per supportare diagnosi e monitoraggi clinici.",
+    "performances": [
+      "Prelievi ematici",
+      "Esami urine e feci",
+      "Analisi ormonali e immunologiche",
+      "Test genetici e PCR"
+    ]
+  },
+
+  {
+    "id": "neurology",
+    "name": "Neurologia",
+    "category": "Reparto",
+    "categoryId": "ward",
+    "location": {
+      "floor": "Terzo piano",
+      "entrance": "Ala 1"
+    },
+    "phone": "+345 2020876",
+    "info": "Il reparto di Neurologia è specializzato nella diagnosi e cura delle malattie del sistema nervoso centrale e periferico.",
+    "opening-hours": {
+      "week": "8:00 - 17:00",
+      "weekend": "Chiuso"
+    },
+    "description": "Trattiamo patologie come epilessia, sclerosi multipla, cefalee, disturbi del movimento e neurodegenerativi, con approccio multidisciplinare e tecnologia di ultima generazione.",
+    "performances": [
+      "Visite neurologiche",
+      "Elettroencefalogramma (EEG)",
+      "Risonanza magnetica cerebrale",
+      "Follow-up per malattie croniche"
+    ]
+  },
+
+  {
+    "id": "orthopedics",
+    "name": "Ortopedia",
+    "category": "Reparto",
+    "categoryId": "ward",
+    "location": {
+      "floor": "Primo piano",
+      "entrance": "Ala 3"
+    },
+    "phone": "+345 2020876",
+    "info": "L'Ambulatorio di Ortopedia AstroCare è specializzato nella diagnosi e trattamento delle patologie osteo-articolari.",
+    "opening-hours": {
+      "week": "8:30 - 19:00",
+      "weekend": "9:00 - 12:00"
+    },
+    "description": "Un team esperto si occupa di infortuni muscolo-scheletrici, artrosi, scoliosi e fratture, offrendo anche percorsi riabilitativi integrati.",
+    "performances": [
+      "Diagnosi e trattamento di fratture",
+      "Chirurgia ortopedica mini-invasiva",
+      "Terapie fisiche e riabilitazione",
+      "Protesi articolari personalizzate"
+    ]
+  }
+]

@@ -1,0 +1,234 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <settings>
+    <preloader image="images/3.png.lossless.webp?t=1675681370" />
+    <userInterface showZoomButtons="false" showToolTips="false" showHotspotsButton="false" showFullScreenButton="false" showTogglePlayButton="false" showArrows="false" toolbarAlign="center" toolbarBackColor="transparent" toolbarHoverColor="#808285" toolbarForeColor="#A7A9AE" toolbarBackAlpha="0" toolbarAlpha="1" showProgressNumbers="true" showFullScreenToolbar="false" fullScreenBackColor="transparent" toolbarPosition="0" customCursorClass="arrow_zoom_cursor" viewerHint="" toolbarAutohide="false" showToolbarOnLoadStart="false" skin="basic" />
+    <control dragSpeed="0.13" doubleClickZooms="false" disableMouseControl="false" showHighresOnFullScreen="false" mouseHoverDrag="false" hideHotspotsOnLoad="false" hideHotspotsOnZoom="false" rowSensitivity="15" dragSensitivity="10" inBrowserFullScreen="false" doubleClickFullscreen="false" zoomSteps="1" zoomSpeed="300" singleClickZooms="false" pauseOnPreload="false" resumePreloadOnHover="false" mouseWheelDrag="false" mouseWheelDragZoomOnly="false" allowRotateInputInZoom="false" allowPanX="false" allowPanY="false" dragAcceleration="1" centerZoom="false" maxZoom="100" />
+    <rotation firstImage="1" rotate="once" rotatePeriod="7" bounce="false" rotateDirection="1" forceDirection="false" inertiaRelToDragSpeed="true" inertiaTimeToStop="700" inertiaMaxInterval="120" useInertia="true" flipHorizontalInput="false" flipVerticalInput="false" bounceRows="true" rowsOnSingleIndex="false" flipAxis="false" spinOnPageScroll="false" pageScrollFollow="false" pageScrollDelay="300" pageScrollPeriod="3" />
+  </settings>
+  <hotspots>
+    <hotspot id="poi_Punta" renderMode="0" indicatorImage="circ-cross-thick-orange.svg" activateOnClick="true" deactivateOnClick="true" margin="0,100,100,0" align="top,left">
+      <spotinfo txt="Design alla moda e giovanile realizzato con materiale riciclato" css="font-size:18px;color:#FFFFFF;width:200px;padding:15px 15px;border:1px solid #FF8300;border-radius:20px;background-color:rgba(29,26,24,0.8);" />
+    </hotspot>
+    <hotspot id="poi_Lacci" renderMode="0" indicatorImage="circ-cross-thick-orange.svg" activateOnClick="true" deactivateOnClick="true" margin="0,0,100,100" align="top,right">
+      <spotinfo txt="Scarpa leggera e confortevole da indossare" css="font-size:18px;color:#FFFFFF;width:200px;padding:15px 15px;border:1px solid #FF8300;border-radius:20px;background-color:rgba(29,26,24,0.8);" />
+    </hotspot>
+    <hotspot id="poi_Tacco" renderMode="0" indicatorImage="circ-cross-thick-orange.svg" activateOnClick="true" deactivateOnClick="true" margin="100,100,0,0" align="bottom,left">
+      <spotinfo txt="Dotato di un contenitore laterale che consente di proteggere il chip" css="font-size:18px;color:#FFFFFF;width:200px;padding:15px 15px;border:1px solid #FF8300;border-radius:20px;background-color:rgba(29,26,24,0.8);" />
+    </hotspot>
+    <hotspot id="poi_Suola" renderMode="0" indicatorImage="circ-cross-thick-orange.svg" activateOnClick="true" deactivateOnClick="true" margin="0,0,100,100" align="top,right">
+      <spotinfo txt="Adatta a qualunque condizione climatica" css="font-size:18px;color:#FFFFFF;width:200px;padding:15px 15px;border:1px solid #FF8300;border-radius:20px;background-color:rgba(29,26,24,0.8);" />
+    </hotspot>
+  </hotspots>
+  <images rows="1" highresWidth="1400" highresHeight="933">
+    <image src="images/2.png.lossless.webp?t=1675681370">
+      <hotspot source="poi_Lacci" offsetX="301" offsetY="180" />
+      <highres src="images/highres/2.webp?t=1675681370" />
+    </image>
+    <image src="images/3.png.lossless.webp?t=1675681370">
+      <hotspot source="poi_Lacci" offsetX="307" offsetY="182" />
+      <highres src="images/highres/3.webp?t=1675681370" />
+    </image>
+    <image src="images/4.png.lossless.webp?t=1675681370">
+      <hotspot source="poi_Lacci" offsetX="312" offsetY="182" />
+      <highres src="images/highres/4.webp?t=1675681370" />
+    </image>
+    <image src="images/5.png.lossless.webp?t=1675681370">
+      <hotspot source="poi_Lacci" offsetX="314" offsetY="181" />
+      <highres src="images/highres/5.webp?t=1675681370" />
+    </image>
+    <image src="images/6.png.lossless.webp?t=1675681370">
+      <hotspot source="poi_Lacci" offsetX="316" offsetY="182" />
+      <highres src="images/highres/6.webp?t=1675681370" />
+    </image>
+    <image src="images/7.png.lossless.webp?t=1675681370">
+      <hotspot source="poi_Lacci" offsetX="320" offsetY="182" />
+      <highres src="images/highres/7.webp?t=1675681370" />
+    </image>
+    <image src="images/8.png.lossless.webp?t=1675681370">
+      <hotspot source="poi_Lacci" offsetX="321" offsetY="180" />
+      <highres src="images/highres/8.webp?t=1675681370" />
+    </image>
+    <image src="images/9.png.lossless.webp?t=1675681370">
+      <hotspot source="poi_Lacci" offsetX="325" offsetY="183" />
+      <highres src="images/highres/9.webp?t=1675681370" />
+    </image>
+    <image src="images/10.png.lossless.webp?t=1675681370">
+      <hotspot source="poi_Lacci" offsetX="331" offsetY="183" />
+      <highres src="images/highres/10.webp?t=1675681370" />
+    </image>
+    <image src="images/11.png.lossless.webp?t=1675681370">
+      <hotspot source="poi_Lacci" offsetX="336" offsetY="182" />
+      <highres src="images/highres/11.webp?t=1675681370" />
+    </image>
+    <image src="images/12.png.lossless.webp?t=1675681370">
+      <hotspot source="poi_Lacci" offsetX="337" offsetY="182" />
+      <highres src="images/highres/12.webp?t=1675681370" />
+    </image>
+    <image src="images/13.png.lossless.webp?t=1675681370">
+      <highres src="images/highres/13.webp?t=1675681370" />
+    </image>
+    <image src="images/14.png.lossless.webp?t=1675681370">
+      <highres src="images/highres/14.webp?t=1675681370" />
+    </image>
+    <image src="images/15.png.lossless.webp?t=1675681370">
+      <highres src="images/highres/15.webp?t=1675681370" />
+    </image>
+    <image src="images/16.png.lossless.webp?t=1675681370">
+      <hotspot source="poi_Punta" offsetX="234" offsetY="242" />
+      <highres src="images/highres/16.webp?t=1675681370" />
+    </image>
+    <image src="images/17.png.lossless.webp?t=1675681370">
+      <hotspot source="poi_Punta" offsetX="249" offsetY="242" />
+      <highres src="images/highres/17.webp?t=1675681370" />
+    </image>
+    <image src="images/18.png.lossless.webp?t=1675681370">
+      <hotspot source="poi_Punta" offsetX="258" offsetY="242" />
+      <highres src="images/highres/18.webp?t=1675681370" />
+    </image>
+    <image src="images/19.png.lossless.webp?t=1675681370">
+      <hotspot source="poi_Punta" offsetX="269" offsetY="242" />
+      <highres src="images/highres/19.webp?t=1675681370" />
+    </image>
+    <image src="images/20.png?t=1675681370">
+      <hotspot source="poi_Punta" offsetX="284" offsetY="242" />
+      <highres src="images/highres/20.png?t=1675681370" />
+    </image>
+    <image src="images/21.png?t=1675681370">
+      <hotspot source="poi_Punta" offsetX="304" offsetY="243" />
+      <highres src="images/highres/21.png?t=1675681370" />
+    </image>
+    <image src="images/22.png?t=1675681370">
+      <hotspot source="poi_Punta" offsetX="324" offsetY="244" />
+      <highres src="images/highres/22.png?t=1675681370" />
+    </image>
+    <image src="images/23.png?t=1675681370">
+      <hotspot source="poi_Punta" offsetX="338" offsetY="243" />
+      <highres src="images/highres/23.png?t=1675681370" />
+    </image>
+    <image src="images/24.png?t=1675681370">
+      <hotspot source="poi_Punta" offsetX="347" offsetY="243" />
+      <highres src="images/highres/24.png?t=1675681370" />
+    </image>
+    <image src="images/25.png?t=1675681370">
+      <hotspot source="poi_Punta" offsetX="356" offsetY="243" />
+      <highres src="images/highres/25.png?t=1675681370" />
+    </image>
+    <image src="images/26.png.lossless.webp?t=1675681370">
+      <hotspot source="poi_Punta" offsetX="368" offsetY="243" />
+      <highres src="images/highres/26.webp?t=1675681370" />
+    </image>
+    <image src="images/27.png.lossless.webp?t=1675681370">
+      <hotspot source="poi_Punta" offsetX="377" offsetY="243" />
+      <highres src="images/highres/27.webp?t=1675681370" />
+    </image>
+    <image src="images/28.png.lossless.webp?t=1675681370">
+      <highres src="images/highres/28.webp?t=1675681370" />
+    </image>
+    <image src="images/29.png.lossless.webp?t=1675681370">
+      <highres src="images/highres/29.webp?t=1675681370" />
+    </image>
+    <image src="images/30.png.lossless.webp?t=1675681370">
+      <hotspot source="poi_Suola" offsetX="274" offsetY="265" />
+      <highres src="images/highres/30.webp?t=1675681370" />
+    </image>
+    <image src="images/31.png.lossless.webp?t=1675681370">
+      <hotspot source="poi_Suola" offsetX="279" offsetY="265" />
+      <highres src="images/highres/31.webp?t=1675681370" />
+    </image>
+    <image src="images/32.png.lossless.webp?t=1675681370">
+      <hotspot source="poi_Suola" offsetX="281" offsetY="265" />
+      <highres src="images/highres/32.webp?t=1675681370" />
+    </image>
+    <image src="images/33.png.lossless.webp?t=1675681370">
+      <hotspot source="poi_Suola" offsetX="281" offsetY="265" />
+      <highres src="images/highres/33.webp?t=1675681370" />
+    </image>
+    <image src="images/34.png.lossless.webp?t=1675681370">
+      <hotspot source="poi_Suola" offsetX="285" offsetY="265" />
+      <highres src="images/highres/34.webp?t=1675681370" />
+    </image>
+    <image src="images/35.png.lossless.webp?t=1675681370">
+      <hotspot source="poi_Suola" offsetX="287" offsetY="265" />
+      <highres src="images/highres/35.webp?t=1675681370" />
+    </image>
+    <image src="images/36.png.lossless.webp?t=1675681370">
+      <hotspot source="poi_Suola" offsetX="292" offsetY="265" />
+      <highres src="images/highres/36.webp?t=1675681370" />
+    </image>
+    <image src="images/37.png.lossless.webp?t=1675681370">
+      <hotspot source="poi_Suola" offsetX="302" offsetY="264" />
+      <highres src="images/highres/37.webp?t=1675681370" />
+    </image>
+    <image src="images/38.png.lossless.webp?t=1675681370">
+      <hotspot source="poi_Suola" offsetX="308" offsetY="263" />
+      <highres src="images/highres/38.webp?t=1675681370" />
+    </image>
+    <image src="images/39.png.lossless.webp?t=1675681370">
+      <hotspot source="poi_Suola" offsetX="319" offsetY="264" />
+      <highres src="images/highres/39.webp?t=1675681370" />
+    </image>
+    <image src="images/40.png.lossless.webp?t=1675681370">
+      <hotspot source="poi_Suola" offsetX="323" offsetY="264" />
+      <highres src="images/highres/40.webp?t=1675681370" />
+    </image>
+    <image src="images/41.png.lossless.webp?t=1675681370">
+      <highres src="images/highres/41.webp?t=1675681370" />
+    </image>
+    <image src="images/42.png.lossless.webp?t=1675681370">
+      <highres src="images/highres/42.webp?t=1675681370" />
+    </image>
+    <image src="images/43.png.lossless.webp?t=1675681370">
+      <hotspot source="poi_Tacco" offsetX="213" offsetY="213" />
+      <highres src="images/highres/43.webp?t=1675681370" />
+    </image>
+    <image src="images/44.png.lossless.webp?t=1675681370">
+      <hotspot source="poi_Tacco" offsetX="233" offsetY="214" />
+      <highres src="images/highres/44.webp?t=1675681370" />
+    </image>
+    <image src="images/45.png.lossless.webp?t=1675681370">
+      <hotspot source="poi_Tacco" offsetX="253" offsetY="213" />
+      <highres src="images/highres/45.webp?t=1675681370" />
+    </image>
+    <image src="images/46.png?t=1675681370">
+      <hotspot source="poi_Tacco" offsetX="274" offsetY="212" />
+      <highres src="images/highres/46.png?t=1675681370" />
+    </image>
+    <image src="images/47.png?t=1675681370">
+      <hotspot source="poi_Tacco" offsetX="289" offsetY="213" />
+      <highres src="images/highres/47.png?t=1675681370" />
+    </image>
+    <image src="images/48.png?t=1675681370">
+      <hotspot source="poi_Tacco" offsetX="330" offsetY="214" />
+      <highres src="images/highres/48.png?t=1675681370" />
+    </image>
+    <image src="images/49.png.lossless.webp?t=1675681370">
+      <hotspot source="poi_Tacco" offsetX="354" offsetY="214" />
+      <highres src="images/highres/49.webp?t=1675681370" />
+    </image>
+    <image src="images/50.png.lossless.webp?t=1675681370">
+      <hotspot source="poi_Tacco" offsetX="377" offsetY="215" />
+      <highres src="images/highres/50.webp?t=1675681370" />
+    </image>
+    <image src="images/51.png.lossless.webp?t=1675681370">
+      <hotspot source="poi_Tacco" offsetX="396" offsetY="213" />
+      <highres src="images/highres/51.webp?t=1675681370" />
+    </image>
+    <image src="images/52.png.lossless.webp?t=1675681370">
+      <hotspot source="poi_Tacco" offsetX="408" offsetY="213" />
+      <highres src="images/highres/52.webp?t=1675681370" />
+    </image>
+    <image src="images/53.png.lossless.webp?t=1675681370">
+      <highres src="images/highres/53.webp?t=1675681370" />
+    </image>
+    <image src="images/54.png.lossless.webp?t=1675681370">
+      <highres src="images/highres/54.webp?t=1675681370" />
+    </image>
+    <image src="images/55.png.lossless.webp?t=1675681370">
+      <highres src="images/highres/55.webp?t=1675681370" />
+    </image>
+    <image src="images/56.png.lossless.webp?t=1675681370">
+      <highres src="images/highres/56.webp?t=1675681370" />
+    </image>
+  </images>
+</config>

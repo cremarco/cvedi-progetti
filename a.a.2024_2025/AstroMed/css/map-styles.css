@@ -1,0 +1,12 @@
+.info-map-container{
+  display: flex;
+  padding: 2.5rem 1.5rem;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 1.5rem;
+  width: 100%;
+
+  border-radius: 1.25rem;
+  border: 1.5px solid var(--am-grey-200);
+  background: var(--am-white);
+}

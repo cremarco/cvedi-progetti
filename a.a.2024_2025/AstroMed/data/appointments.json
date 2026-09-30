@@ -1,0 +1,38 @@
+
+[
+  {
+    "id": "appt-1",
+    "performanceId": "P001",
+    "date": "30 Luglio 3045",
+    "time": "13:30 - 14:30",
+    "room": "Ala 2 - Stanza 42",
+    "structure": "Astrocare Sidera",
+    "doctorName": "Dr. Seo Jun Kim",
+    "specialty": "Ortopedico",
+    "patientId": "6565F65RGL97H6778"
+  },
+  {
+    "id": "appt-2",
+    "performanceId": "P009",
+    "date": "02 Settembre 3045",
+    "time": "15:30 - 17:00",
+    "room": "Ala 1 - Stanza 15",
+    "structure": "Astrocare Sidera",
+    "doctorName": "Dr. Giacomo Pivetta",
+    "specialty": "Fisioterapeuta",
+    "patientId": "6565F65RGL97H6778"
+  },
+  {
+    "id": "appt-3",
+    "performanceId": "P010",
+    "date": "16 Settembre 3045",
+    "time": "11:00 - 12:00",
+    "room": "Ala 1 - Stanza 13",
+    "structure": "Astrocare Sidera",
+    "doctorName": "Dot.ssa Clara Palumbo",
+    "specialty": "Neurologa",
+    "patientId": "6565F65RGL97H6778"
+  }
+]
+
+

@@ -1,0 +1,59 @@
+[
+  {
+    "data": "20/02/2021",
+    "titolo": "Ceramicamente noi",
+    "testo": "<p>Si ricorda alle famiglie e tutori dei ragazzi, che il 26 febbraio 2021 ci sarà “Ceramicamente noi” il mercatino dove saranno messe in vendita le opere realizzate dai ragazzi nell’omonimo corso “Ceramica”. Ricordiamo che il ricavato delle vendite sarà interamente devoluto a L’Aliante, al fine di ampliare l’assortimento e migliorare la qualità dei materiali ed essere ogni anno sempre più bravi!<br><br>Grazie per la collaborazione,<br>La Direzione <p>",
+    "abstract": "Il 26/02/2021 si terrà il mercatino <i>\"Ceramicamente noi\"</i> i cui ricavati saranno interamente devoluti alla Cooperativa sociale L'Aliante.",
+    "immagine": "../assets/images/avvisi/ceramica.webp",
+    "id": "7"
+  },
+  {
+    "data": "12/02/2021",
+    "titolo": "Nuovo sito web",
+    "testo": "<p>Si avvisano i gentili lettori che il 25 gennaio 2021 il sito “L’Aliante” si rinnoverà, grazie al generoso aiuto di 5 ragazzi dell’Università degli Studi di Milano-Bicocca. Fateci sapere le vostre opinioni a riguardo tramite i social! Sicuramente ne rimarrete entusiasti così come lo siamo noi!<br><br>Grazie per la vostra attenzione,<br>La Direzione <p>",
+    "abstract": "Tra pochi giorni sarà online il nuovo sito della Cooperativa: una nuova interfaccia dove troverai tutte le informazioni sulla cooperativa.",
+    "immagine": "../assets/images/avvisi/website.webp",
+    "id": "6"
+  },
+  {
+    "data": "24/01/2021",
+    "titolo": "Album fotografico",
+    "testo": "<p>Si avvisa con grande piacere che da oggi sarà possibile visualizzare l’album 2020, con tutte le foto “a distanza” della cooperativa. Sarà anche possibile, come ogni anno, richiedere la foto di gruppo in carta fotografica opaca formato 20x27 al costo di 2 euro, è possibile richiedere una o più stampe mandando una mail a <a href='mailto:info@laliante.it'>info@laliante</a> o chiamando al numero  <a href='tel:0362222046'>0362 222046</a>.<br><br>Grazie per l’attenzione,<br>La direzione. <p>",
+    "abstract": "Da oggi è possibile ordinare l'album con le foto di tutti gli iscritti alla cooperativa e dei volontari. Prenota ora la tua copia!",
+    "immagine": "../assets/images/avvisi/fotografia.webp",
+    "id": "5"
+  },
+  {
+    "data": "11/02/2021",
+    "titolo": "Carnevale in festa",
+    "testo": "<p>Martedì 16 Febbraio si terrà la tradizionale pentolaccia di carnevale. Le attività di calendario restano pertanto sospese per festeggiare e mangiare assieme le bugie preparate dai nostri volontari.<br>I festeggiamenti si terranno nella sala principale a partire dalle ore 14:00. Se i familiari o i tutori dei ragazzi volessero partecipare all’evento, è necessario chiamare o mandare un’email a <a href='mailto:info@laliante.it'>info@laliante</a>.it per poter iscriversi all’evento.<br><br>Grazie per l’attenzione,<br>La direzione. <p>",
+    "abstract": "Ecco l'elenco delle attività che si svolgeranno il 16 Febbraio per festeggiare Carnevale in cooperativa. Ricordatevi la maschera!",
+    "immagine": "../assets/images/avvisi/carnevale.webp",
+    "id": "4"
+  },
+
+  {
+    "data": "07/01/2021",
+    "titolo": "Cambio attività",
+    "testo": "<p>Si avvisano le famiglie e i tutori dei ragazzi che domani, 08/01/2021, l'attività di informatica sarà sostituita da quella di pittura. Si ricorda che affinché l'attività sia svolta nel migliore dei modi, si consiglia di fornire ai ragazzi il materiale che riportiamo di seguito:</p><ul><li>Pennelli setole morbide 4,8</li><li>Pittura a tempera colori primari</li><li>Carta stagnola</li></ul><br><p>Grazie per la collaborazione,<br>La direzione.</p>",
+    "abstract": "Il giorno 08/01/2021 il laboratorio di informatica sarà sostituita con il laboratorio di pittura. Portare il materiale indicato.",
+    "immagine": "../assets/images/avvisi/pittura.webp",
+    "id": "3"
+  },
+  {
+    "data": "05/01/2021",
+    "titolo": "Tombolata",
+    "testo": " <p>Si avvisano gli ospiti che domenica 15/01 si terrà la tombolata di beneficenza presso la Nostra sede principale. Tutti i ricavati verranno devoluti alla cooperativa sociale al fine di favorire l'acquisto di nuovo materiale per lo svolgimento delle attività. È possibile prenotare le cartelle di gioco chiamando il nostro numero, oppure direttamente allo sportello accoglienza della cooperativa.<br><br>Vi ringraziamo per l'attenzione,<br>La direzione.</p>",
+    "abstract": "Domenica 15/01/2020 si terrà la tombolata di beneficenza. Ricordiamo di prenotare le cartelle per la partecipazione.",
+    "immagine": "../assets/images/avvisi/tombola.webp",
+    "id": "2"
+  },
+  {
+    "data": "28/12/2020",
+    "titolo": "Capodanno con noi",
+    "testo": " <p>Giovedì 31/12/2020 alle ore 20:00 terremo una videochiamata tutti insieme per finire l'anno in compagnia! Mandate i vostri indirizzi mail alla nostra cooperativa per essere aggiunti al gruppo di chiamata, che si svolgerà su Google Meet. Preparate l'app installata sul vostro smartphone.<br><br>Vi ringraziamo per l'attenzione,<br>La direzione.</p>",
+    "abstract": "Abbiamo organizzato una videoconferenza durante la serata di fine anno per festeggiare a distanza, ma insieme! Scopri come partecipare.",
+    "immagine": "../assets/images/avvisi/capodanno.jpg",
+    "id": "1"
+  }
+]

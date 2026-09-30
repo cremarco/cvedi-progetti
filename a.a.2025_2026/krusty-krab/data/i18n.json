@@ -1,0 +1,1262 @@
+{
+  "nav-home": {
+    "it": "Home",
+    "en": "Home",
+    "bb": "Blubble"
+  },
+  "nav-menu": {
+    "it": "Menù",
+    "en": "Menu",
+    "bb": "Blubb"
+  },
+  "nav-about": {
+    "it": "Chi siamo",
+    "en": "About Us",
+    "bb": "Blubb blub"
+  },
+  "nav-restaurant": {
+    "it": "Ristorante",
+    "en": "Restaurant",
+    "bb": "Blub-blub"
+  },
+  "nav-booking": {
+    "it": "Prenota",
+    "en": "Book",
+    "bb": "Blub-blub"
+  },
+  "nav-wheel": {
+    "it": "Timone",
+    "en": "Wheel",
+    "bb": "Blubble"
+  },
+  "footer-motto": {
+    "it": "Dive into flavour.",
+    "en": "Dive into flavour.",
+    "bb": "Blub blub-blub blub-blub."
+  },
+  "footer-findus": {
+    "it": "Vieni a trovarci",
+    "en": "Find us",
+    "bb": "Blub blub-blub blubb"
+  },
+  "footer-address": {
+    "it": "Via Abisso 31, 37028, Bikini Bottom, Deep Sea (DS)",
+    "en": "Via Abisso 31, 37028, Bikini Bottom, Deep Sea (DS)",
+    "bb": "Blubb Blubble 31, 37028, Blub Blub-blub, Blubble Blubble (Blub-blub)"
+  },
+  "footer-or-call": {
+    "it": "Oppure chiamaci:",
+    "en": "Or call us:",
+    "bb": "Blubb blub-blub:"
+  },
+  "footer-followus": {
+    "it": "Seguici",
+    "en": "Follow us",
+    "bb": "Blubb"
+  },
+  "footer-credits": {
+    "it": "© 2025, KRUSTY KRAB - 3C2D, tutti i diritti riservati.",
+    "en": "© 2025, KRUSTY KRAB - 3C2D, all rights reserved.",
+    "bb": "© 2025, Blubb Blub-blub - 3Blubble2Blubb, blubb blubble blub blub."
+  },
+  "hero-home-title": {
+    "it": "Krusty Krab",
+    "en": "Krusty Krab",
+    "bb": "Krusty Krab"
+  },
+  "hero-home-subtitle": {
+    "it": "Dive into flavour",
+    "en": "Dive into flavour",
+    "bb": "Blub blub-blub blubb"
+  },
+  "hero-book-btn": {
+    "it": "Prenota un tavolo",
+    "en": "Book a table",
+    "bb": "Blubble blub-blub blub"
+  },
+  "hero-menu-btn": {
+    "it": "Esplora il menù",
+    "en": "Explore the menu",
+    "bb": "Blubb blub-blub blubble"
+  },
+  "home-reviews-title": {
+    "it": "Il mare mormora",
+    "en": "The sea whispers",
+    "bb": "Blubb blubble blubble"
+  },
+  "home-reviews-subtitle": {
+    "it": "I viaggiatori più coraggiosi del mare scelgono il Krusty Krab",
+    "en": "The bravest sea travelers choose us",
+    "bb": "Blub-blub blub-blub blubble blub-blub blub blub-blub blub blub-blub"
+  },
+  "home-cta-title": {
+    "it": "Il mare chiama",
+    "en": "The sea calls",
+    "bb": "Blubb blub blubb"
+  },
+  "home-cta-subtitle": {
+    "it": "Unisciti a noi per un'esperienza indimenticabile",
+    "en": "Join us for an unforgettable experience",
+    "bb": "Blubb blubble blub blub blubb'blubb blubble"
+  },
+  "about-hero-title": {
+    "it": "Scopri chi siamo",
+    "en": "Discover who we are",
+    "bb": "Blub-blub blubb blubble"
+  },
+  "about-hero-subtitle": {
+    "it": "...sotto la superficie",
+    "en": "...beneath the surface",
+    "bb": "...blubble blub blubb"
+  },
+  "about-crew-title": {
+    "it": "Il nostro branco",
+    "en": "Our crew",
+    "bb": "Blub blub blubb"
+  },
+  "about-find-title": {
+    "it": "Trovaci nell'abisso",
+    "en": "Find us in the abyss",
+    "bb": "Blub blub-blub'blubble"
+  },
+  "about-videos-title": {
+    "it": "I nostri contenuti",
+    "en": "Our contents",
+    "bb": "Blub blubb blub-blub"
+  },
+  "menu-hero-title": {
+    "it": "Krusty Krab",
+    "en": "Krusty Krab",
+    "bb": "Blubb Blubble"
+  },
+  "menu-hero-subtitle": {
+    "it": "Tuffati nel gusto: ogni piatto è una perla del mare!",
+    "en": "Dive into taste: every dish is a pearl of the sea!",
+    "bb": "Blub blub-blub blub-blub: blubb blub-blub blubb blubb blub-blub blub-blub blub-blub!"
+  },
+  "menu-krabby-title": {
+    "it": "Il leggendario<br>Krabby Patty",
+    "en": "The legendary<br>Krabby Patty",
+    "bb": "Blubb blubble<br>Blub-blub Blubble"
+  },
+  "menu-sides-title": {
+    "it": "La prima ondata di bontà",
+    "en": "The first wave of goodness",
+    "bb": "Blubble blubb blubb blub blubb"
+  },
+  "menu-kids-title": {
+    "it": "Il Bottino del Pesciolino",
+    "en": "The Little Fish's Loot",
+    "bb": "Blubb Blub-blub blubb Blubble"
+  },
+  "menu-dessert-title": {
+    "it": "La Spugna di Bikini Bottom",
+    "en": "The Sponge of Bikini Bottom",
+    "bb": "Blub-blub Blubb blub Blub Blubble"
+  },
+  "menu-discover-btn": {
+    "it": "Scopri di più",
+    "en": "Discover more",
+    "bb": "Blubb blub blub-blub"
+  },
+  "rest-hero-title": {
+    "it": "Krusty Krab",
+    "en": "Krusty Krab",
+    "bb": "Blubble Blub"
+  },
+  "rest-hero-subtitle": {
+    "it": "Scopri gli abissi",
+    "en": "Discover the abyss",
+    "bb": "Blub blub blub"
+  },
+  "rest-beyond-title": {
+    "it": "Oltre la superficie",
+    "en": "Beyond the surface",
+    "bb": "Blub blubble blubb"
+  },
+  "rest-command-title": {
+    "it": "Comando dal mare",
+    "en": "Command from the sea",
+    "bb": "Blub blub blubble"
+  },
+  "rest-secret-title": {
+    "it": "Il segreto del Krabby",
+    "en": "The secret of Krabby",
+    "bb": "Blubb blub blubble Blub"
+  },
+  "rest-prizes-title": {
+    "it": "Trofei e Tesori",
+    "en": "Awards and Treasures",
+    "bb": "Blubb blub-blub Blubb"
+  },
+  "rest-prizes-subtitle": {
+    "it": "Pinnacolo dell'eccellenza, abbiamo raccolto i più prestigiosi premi di Bikini Bottom.",
+    "en": "Pinnacle of excellence, we have collected the most prestigious awards of Bikini Bottom.",
+    "bb": "Blubble blub-blub'blubb, blub blub blubb blubb blubble blub-blub blubble Blub-blub Blub-blub."
+  },
+  "booking-hero-title": {
+    "it": "PRENOTA IL TUO TAVOLO",
+    "en": "BOOK YOUR TABLE",
+    "bb": "Blub Blub-blub Blub-blub Blubble"
+  },
+  "booking-mascot-msg": {
+    "it": "Stai navigando<br>verso il tesoro...",
+    "en": "You are sailing<br>towards the treasure...",
+    "bb": "Blub-blub blub-blub<br>blub-blub blubb blubble..."
+  },
+  "wheel-hero-title": {
+    "it": "Prendi il timone",
+    "en": "Spin the Wheel",
+    "bb": "Blub blub blubb"
+  },
+  "wheel-hero-subtitle": {
+    "it": "La fortuna soffia a prua, cavalca le onde!",
+    "en": "Fortune blows at the bow, ride the waves!",
+    "bb": "Blub blub-blub blubb blubble blubble, blub blub blub!"
+  },
+  "wheel-spin-btn": {
+    "it": "Gira il timone",
+    "en": "Spin the wheel",
+    "bb": "Blubb blub blub"
+  },
+  "booking-step1-title1": {
+    "it": "Quanti membri ha il tuo equipaggio?",
+    "en": "How many members in your crew?",
+    "bb": "Blubble blub blub-blub blub blubb blub-blub?"
+  },
+  "booking-step1-title2": {
+    "it": "Quando vuoi salpare?",
+    "en": "When do you want to sail?",
+    "bb": "Blub blub-blub blubb?"
+  },
+  "booking-step1-title3": {
+    "it": "A che ora inizia la tua avventura?",
+    "en": "What time does your adventure begin?",
+    "bb": "Blub blubble blubble blub-blub blubble blubb blub?"
+  },
+  "booking-step1-btn": {
+    "it": "Inizia l'esperienza",
+    "en": "Start the experience",
+    "bb": "Blubble blubb'blubb"
+  },
+  "booking-step1-call": {
+    "it": "Oppure chiamaci:",
+    "en": "Or call us:",
+    "bb": "Blubble blub-blub:"
+  },
+  "booking-step2-title1": {
+    "it": "Dove vuoi ancorare il tuo tavolo?",
+    "en": "Where do you want to anchor your table?",
+    "bb": "Blubb blubble blub-blub blub blub blub-blub?"
+  },
+  "booking-step2-pref1": {
+    "it": "Vicino alla vetrata panoramica",
+    "en": "Near the panoramic window",
+    "bb": "Blubb blubble blubble blubb"
+  },
+  "booking-step2-pref2": {
+    "it": "Tra i coralli",
+    "en": "Among the corals",
+    "bb": "Blub blubb blubble"
+  },
+  "booking-step2-pref3": {
+    "it": "Accanto all'acquario",
+    "en": "Next to the aquarium",
+    "bb": "Blubble blub-blub'blub-blub"
+  },
+  "booking-step2-title2": {
+    "it": "Hai un codice sconto o offerta?",
+    "en": "Do you have a discount code or offer?",
+    "bb": "Blub-blub blub blub blubble blubble blubb?"
+  },
+  "booking-step2-code": {
+    "it": "Inserisci codice",
+    "en": "Enter code",
+    "bb": "Blubble blub"
+  },
+  "booking-step2-apply": {
+    "it": "Applica",
+    "en": "Apply",
+    "bb": "Blubb"
+  },
+  "booking-step3-title": {
+    "it": "Chi è il capitano della spedizione?",
+    "en": "Who is the captain of the expedition?",
+    "bb": "Blub-blub blub blub blubble blub-blub blubb?"
+  },
+  "booking-step3-name": {
+    "it": "Nome*",
+    "en": "First Name*",
+    "bb": "Blubb*"
+  },
+  "booking-step3-surname": {
+    "it": "Cognome*",
+    "en": "Last Name*",
+    "bb": "Blub-blub*"
+  },
+  "booking-step3-email": {
+    "it": "Email*",
+    "en": "Email*",
+    "bb": "Blubb*"
+  },
+  "booking-step3-phone": {
+    "it": "Telefono*",
+    "en": "Phone*",
+    "bb": "Blubble*"
+  },
+  "booking-step3-notes": {
+    "it": "Qualche richiesta particolare?",
+    "en": "Any special requests?",
+    "bb": "Blubb blubble blub-blub?"
+  },
+  "booking-step3-privacy": {
+    "it": "Accetto le Condizioni d'Uso e Informativa sulla Privacy*",
+    "en": "I accept the Terms of Use and Privacy Policy*",
+    "bb": "Blubble blub Blubble blub-blub'Blubb blub-blub Blubble blub Blub-blub*"
+  },
+  "booking-step3-marketing": {
+    "it": "Desidero ricevere informazioni commerciali di Krusty Krab per email e/o SMS.",
+    "en": "I wish to receive commercial information from Krusty Krab via email and/or SMS.",
+    "bb": "Blubb blub-blub blub-blub blub-blub blub-blub Blub Blub-blub blubble blubble blubb/blub Blub."
+  },
+  "booking-back": {
+    "it": "Indietro",
+    "en": "Back",
+    "bb": "Blub-blub"
+  },
+  "booking-next": {
+    "it": "Prosegui",
+    "en": "Next",
+    "bb": "Blub"
+  },
+  "booking-confirm": {
+    "it": "Conferma prenotazione",
+    "en": "Confirm booking",
+    "bb": "Blubb blub-blub"
+  },
+  "booking-step4-title": {
+    "it": "Prenotazione Confermata",
+    "en": "Booking Confirmed",
+    "bb": "Blubble Blub-blub"
+  },
+  "booking-step4-desc": {
+    "it": "Ti abbiamo inviato un'email con tutti i dettagli<br>della tua prenotazione.",
+    "en": "We have sent you an email with all the details<br>of your booking.",
+    "bb": "Blub-blub blub blub-blub blubb'blubb blub-blub blubble blubble blub-blub<br>blub blub-blub blub."
+  },
+  "booking-step4-number": {
+    "it": "Numero prenotazione:",
+    "en": "Booking number:",
+    "bb": "Blubble blub:"
+  },
+  "booking-step4-summary": {
+    "it": "Riepilogo della prenotazione",
+    "en": "Booking summary",
+    "bb": "Blubb blub blubb"
+  },
+  "booking-step4-sum-name": {
+    "it": "Nome:",
+    "en": "Name:",
+    "bb": "Blubb:"
+  },
+  "booking-step4-sum-date": {
+    "it": "Data:",
+    "en": "Date:",
+    "bb": "Blubb:"
+  },
+  "booking-step4-sum-time": {
+    "it": "Ora:",
+    "en": "Time:",
+    "bb": "Blubb:"
+  },
+  "booking-step4-sum-people": {
+    "it": "Persone:",
+    "en": "People:",
+    "bb": "Blubb:"
+  },
+  "booking-step4-sum-table": {
+    "it": "Tavolo:",
+    "en": "Table:",
+    "bb": "Blubb:"
+  },
+  "booking-step4-sum-email": {
+    "it": "Email:",
+    "en": "Email:",
+    "bb": "Blubble:"
+  },
+  "booking-step4-sum-phone": {
+    "it": "Telefono:",
+    "en": "Phone:",
+    "bb": "Blubb:"
+  },
+  "booking-step4-sum-notes": {
+    "it": "Note:",
+    "en": "Notes:",
+    "bb": "Blubble:"
+  },
+  "booking-step4-cancel": {
+    "it": "Annulla Prenotazione",
+    "en": "Cancel Booking",
+    "bb": "Blub Blub"
+  },
+  "booking-step4-edit": {
+    "it": "Modifica Prenotazione",
+    "en": "Edit Booking",
+    "bb": "Blubble Blubble"
+  },
+  "booking-step4-policy": {
+    "it": "Puoi modificare o annullare la prenotazione fino a <strong>2 ore prima</strong><br>dell'orario previsto.",
+    "en": "You can modify or cancel the booking up to <strong>2 hours before</strong><br>the scheduled time.",
+    "bb": "Blubble blubble blubb blubb blub blubb blub-blub blub-blub <strong>2 blub blub</strong><br>blubble'blubb blub."
+  },
+  "booking-step4-help": {
+    "it": "Per assistenza chiamaci al <a href=\"tel:+393331234567\" class=\"phone-number\">+39 333 1234567</a>",
+    "en": "For assistance call us at <a href=\"tel:+393331234567\" class=\"phone-number\">+39 333 1234567</a>",
+    "bb": "Blubble blub-blub blub-blub blub <a href=\"tel:+393331234567\" class=\"phone-number\">+39 333 1234567</a>"
+  },
+  "wheel-desc": {
+    "it": "Una volta al giorno hai una grande occasione: fai girare il <strong>timone della fortuna</strong> e prova a vincere una delle nostre <strong>offerte esclusive!</strong>",
+    "en": "Once a day you have a great chance: spin the <strong>wheel of fortune</strong> and try to win one of our <strong>exclusive offers!</strong>",
+    "bb": "Blubble blub-blub blubb blub-blub blub blub-blub blub-blub blubb: blubb blub-blub blub-blub <strong>blub blub-blub blub</strong> blub-blub blub-blub blub-blub blub blub blubb blub <strong>blub blubb!</strong>"
+  },
+  "wheel-won": {
+    "it": "Hai vinto!",
+    "en": "You won!",
+    "bb": "Blub-blub blubb!"
+  },
+  "wheel-code": {
+    "it": "Codice da riscattare:",
+    "en": "Code to redeem:",
+    "bb": "Blubb blubb blub-blub:"
+  },
+  "wheel-show": {
+    "it": "Mostra questo codice alla cassa per ricevere il tuo premio!",
+    "en": "Show this code at the cashier to receive your prize!",
+    "bb": "Blub blub-blub blubble blubble blub-blub blubble blubb blubb blub-blub blub-blub!"
+  },
+  "wheel-saved": {
+    "it": "Ho salvato il codice",
+    "en": "I saved the code",
+    "bb": "Blub-blub blub-blub blubb blubble"
+  },
+  "rest-beyond-p": {
+    "it": "Nel cuore di Bikini Bottom, un vecchio capitano trasformò il suo sogno in realtà: nacque così il Krusty Krab, un rifugio dove il sapore del mare divenne leggenda. Da allora, ogni piatto è un tuffo negli abissi e ogni morso racconta una storia di mare.",
+    "en": "In the heart of Bikini Bottom, an old captain turned his dream into reality: thus was born the Krusty Krab, a haven where the taste of the sea became legend. Since then, every dish is a dive into the abyss and every bite tells a story of the sea.",
+    "bb": "Blubble blubble blub-blub Blubble Blub, blubble blubble blub blubble blubble blub blub-blub blub blub-blub: blubble blubb blubble Blubb Blub, blubb blubble blub blubb blubb blubble blub-blub blubb blub-blub. Blub blub-blub, blub-blub blubble blubble blub blub-blub blubb blubb blub-blub blub-blub blub blub-blub blub-blub blubb blubb blubb."
+  },
+  "rest-command-p": {
+    "it": "Ogni rotta nasce da un sogno, ed è così che il Krusty Krab ha preso il largo. Guidati dalla passione per il mare, uniamo tradizione e curiosità per creare sapori autentici: ogni piatto è un viaggio e ogni ingrediente una scoperta. La nostra rotta? Seguire il mare, sempre - con cuore e un pizzico di follia salata.",
+    "en": "Every route is born from a dream, and that's how the Krusty Krab set sail. Driven by a passion for the sea, we blend tradition and curiosity to create authentic flavours: every dish is a journey and every ingredient a discovery. Our course? Follow the sea, always - with heart and a pinch of salty madness.",
+    "bb": "Blub blubb blub-blub blubble blubble blub, blubb blubb blubble blub-blub blub-blub Blub-blub Blubb blub blubble blubb blubb. Blubb blub blubble blubble blubble blubb, blubble blub blubble blubb blubble blubble blubble blubble: blub-blub blub blubble blub blub-blub blubb blub blub-blub blub blubb. Blub-blub blubble blub? Blubble blubble blub, blubble - blubb blubble blubb blub-blub blubb blub-blub blub-blub blubble."
+  },
+  "rest-command-btn": {
+    "it": "Conosci il branco",
+    "en": "Meet the crew",
+    "bb": "Blubb blub blubble"
+  },
+  "rest-secret-p": {
+    "it": "Il segreto del Krabby Patty non è una ricetta, ma la purezza del mare che lo ispira. Ogni ingrediente nasce vicino: pane con farina locale e sale marino, verdure cresciute al sole e formaggio del porto. Al centro, la polpetta perfetta, preparata ogni giorno con ingredienti freschi e a km 0. Ogni Krabby Patty racconta una storia di freschezza e rispetto.",
+    "en": "The secret of the Krabby Patty is not a recipe, but the purity of the sea that inspires it. Every ingredient comes from nearby: bread with local flour and sea salt, sun-grown vegetables and harbour cheese. At the centre, the perfect patty, prepared every day with fresh, zero-mile ingredients. Every Krabby Patty tells a story of freshness and respect.",
+    "bb": "Blub blub blub-blub Blubb Blub-blub blub blub blubble blubb, blubb blub-blub blubb blubble blub blub blub blubb. Blub-blub blub blubble blub: blubble blubble blubb blubb blub-blub blubb blubble, blub-blub blubble blub-blub blub blubble blubb blubb blub. Blub blubb, blubble blubble blub-blub, blub blub blub blubble blubb blubble blubb blubble blub-blub 0. Blubb Blubb Blubb blubb blub-blub blub-blub blubb blubble blub-blub blubb."
+  },
+  "rest-secret-btn": {
+    "it": "Esplora il menù",
+    "en": "Explore the menu",
+    "bb": "Blubb blubble blubb"
+  },
+  "kp-hero-title": {
+    "it": "Il Krabby Patty",
+    "en": "The Krabby Patty",
+    "bb": "Blubb Blubble Blub-blub"
+  },
+  "kp-hero-subtitle": {
+    "it": "Il mito. La leggenda. L'unico. L'originale.",
+    "en": "The myth. The legend. The one. The original.",
+    "bb": "Blubble blub. Blubb blubb. Blubb'blubb. Blubble'blubb."
+  },
+  "kp-anatomy-title": {
+    "it": "L'anatomia del Krabby Patty",
+    "en": "The anatomy of the Krabby Patty",
+    "bb": "Blub'blubb blubb Blubble Blubb"
+  },
+  "kp-patty-title": {
+    "it": "Il medaglione perfetto",
+    "en": "The perfect patty",
+    "bb": "Blub blubble blub"
+  },
+  "kp-patty-p": {
+    "it": "Una polpetta succulenta, grigliata secondo l'antico rituale del Capitano, che sprigiona sapore a ogni morso.",
+    "en": "A succulent patty, grilled according to the Captain's ancient ritual, bursting with flavour in every bite.",
+    "bb": "Blub blubb blubble, blubb blubble blub'blub-blub blubble blubb Blubble, blub blubble blubble blub blub-blub blub-blub."
+  },
+  "kp-cheese-title": {
+    "it": "L'oro che fila",
+    "en": "The golden thread",
+    "bb": "Blub'blubble blubble blubb"
+  },
+  "kp-cheese-p": {
+    "it": "Formaggio degli abissi, fuso al punto giusto per avvolgere la carne in un abbraccio cremoso e irresistibile.",
+    "en": "Cheese from the deep, melted to perfection to wrap the meat in a creamy, irresistible embrace.",
+    "bb": "Blub blubb blub, blub blub-blub blub-blub blubb blubble blub blub-blub blub-blub blub-blub blubb blub blubb blub blubble."
+  },
+  "kp-bacon-title": {
+    "it": "L'onda croccante",
+    "en": "The crunchy wave",
+    "bb": "Blub'blub blub-blub"
+  },
+  "kp-bacon-p": {
+    "it": "Fette di pancetta rese dorate e scricchiolanti sulla nostra piastra rovente. È l'onda di sapore in più che rende il morso leggendario.",
+    "en": "Slices of bacon turned golden and crispy on our sizzling grill. It's the extra wave of flavour that makes every bite legendary.",
+    "bb": "Blub-blub blub-blub blubble blub-blub blubble blubb blubble blubble blubble blubb blubble. blub blubb'blubb blub blub-blub blubb blub blubb blubb blubble blubble blubb."
+  },
+  "kp-sauce-title": {
+    "it": "...e poi c'è lei.",
+    "en": "...and then there's her.",
+    "bb": "...blub blub blubble'blubb blubble."
+  },
+  "kp-sauce-p1": {
+    "it": "L'ingrediente che nessuno ha mai replicato: la Formula Segreta Inimitabile.",
+    "en": "The ingredient no one has ever replicated: the Inimitable Secret Formula.",
+    "bb": "Blub-blub'blubble blubb blubb blubble blubb blubb: blub Blubb Blub Blub-blub."
+  },
+  "kp-sauce-p2": {
+    "it": "Molti ne immaginano il sapore, ma la ricetta è custodita dal Capitano.",
+    "en": "Many imagine its taste, but the recipe is guarded by the Captain.",
+    "bb": "Blubb blubb blubb blub blubble, blubble blub-blub blub blubb blubb blubble Blubble."
+  },
+  "kp-sauce-p3": {
+    "it": "Le parole non bastano: l'unico modo per conoscere il segreto è assaggiarlo.",
+    "en": "Words are not enough: the only way to know the secret is to taste it.",
+    "bb": "Blubb blubb blubble blub-blub: blubble'blub-blub blub blubble blubb blubb blub blub blub."
+  },
+  "kp-reviews-subtitle": {
+    "it": "I viaggiatori più coraggiosi del mare scelgono il Krabby Patty",
+    "en": "The bravest sea travellers choose the Krabby Patty",
+    "bb": "Blub blubb blub blubble blubb blub blubb blub Blub-blub Blubb"
+  },
+  "kids-hero-title": {
+    "it": "Il Bottino del Pesciolino",
+    "en": "The Little Fish's Loot",
+    "bb": "Blubb Blubb blub-blub Blubble"
+  },
+  "kids-hero-subtitle": {
+    "it": "Il preferito dei più piccoli.",
+    "en": "The favourite of the little ones.",
+    "bb": "Blub-blub blubble blub-blub blubb blub."
+  },
+  "kids-chest-title": {
+    "it": "Cosa nasconde il forziere?",
+    "en": "What's inside the treasure chest?",
+    "bb": "Blubb blub-blub blub-blub blub?"
+  },
+  "kids-baby-title": {
+    "it": "Baby Krabby Patty",
+    "en": "Baby Krabby Patty",
+    "bb": "Blubb Blubble Blubb"
+  },
+  "kids-baby-p": {
+    "it": "Tutto il gusto e gli ingredienti genuini del nostro mitico Krabby Patty, in una porzione adatta ai corsari più novellini.",
+    "en": "All the taste and genuine ingredients of our legendary Krabby Patty, in a portion perfect for the youngest pirates.",
+    "bb": "Blub-blub blub-blub blub blub blubb blubble blubb blubble blub-blub blubb Blub Blub-blub, blub-blub blub-blub blub-blub blub-blub blubble blub-blub blubb blub."
+  },
+  "kids-fries-title": {
+    "it": "Patatine Fritte",
+    "en": "French Fries",
+    "bb": "Blub Blubb"
+  },
+  "kids-fries-p": {
+    "it": "Croccanti come onde sulla battigia! Dorate al punto giusto, servite calde e salate al bacio del mare. Perfette da condividere… o da difendere come un vero pirata affamato!",
+    "en": "Crunchy like waves on the shore! Golden to perfection, served hot and kissed by sea salt. Perfect for sharing… or guarding like a true hungry pirate!",
+    "bb": "Blubble blub-blub blub-blub blubble blubb! Blubb blub blub blubble, blub blub-blub blubb blub blubble blub blubb blubb. Blubble blub blub-blub… blub blubble blubb blub blubb blubble blub blubb!"
+  },
+  "kids-drink-title": {
+    "it": "Bibita Piccola",
+    "en": "Small Drink",
+    "bb": "Blubble Blubb"
+  },
+  "kids-drink-p": {
+    "it": "Un'onda rinfrescante per dissetare le giovani ciurme! Il sorso perfetto per bagnare il becco e tuffarsi in nuove, spumeggianti avventure sottomarine.",
+    "en": "A refreshing wave to quench the thirst of young crews! The perfect sip to wet your beak and dive into new, sparkling underwater adventures.",
+    "bb": "Blub'blub blub blub blubble blubble blubb blubb! Blubble blubb blubb blubb blubb blub blub-blub blubb blubble blubble blubble, blub-blub blub blubb."
+  },
+  "kids-surprise-title": {
+    "it": "La sorpresa del capitano",
+    "en": "The captain's surprise",
+    "bb": "Blub blubble blubb blub"
+  },
+  "kids-surprise-p": {
+    "it": "Ogni mese il forziere del Krusty Krab svela un nuovo tesoro da portare a casa! Con ogni Bottino del Pesciolino troverai una sorpresa esclusiva in regalo. Questo mese scopri la morbidissima collezione dei <strong>Peluche delle Meduse di Bikini Bottom</strong>. Collezionali tutti prima che nuotino via!",
+    "en": "Every month the Krusty Krab treasure chest reveals a new treasure to take home! With every Little Fish's Loot you'll find an exclusive surprise gift. This month discover the incredibly soft <strong>Bikini Bottom Jellyfish Plushies</strong> collection. Collect them all before they swim away!",
+    "bb": "Blub blubb blub-blub blubble blub-blub Blub-blub Blub-blub blubble blubble blubb blub blub-blub blub-blub blub blub-blub! Blubble blubb Blubb blub Blub blubb blubb blubb blub-blub blub blubble. Blub-blub blubb blubble blubb blub blub blub-blub <strong>Blubb blubb Blubble blubb Blub Blub-blub</strong>. Blubble blub-blub blub-blub blubb blubb blubble!"
+  },
+  "kids-reviews-subtitle": {
+    "it": "I viaggiatori più coraggiosi del mare scelgono il Bottino del Pesciolino",
+    "en": "The bravest sea travellers choose the Little Fish's Loot",
+    "bb": "Blub blubble blubble blub-blub blubb blub blubb blubb Blubb blub-blub Blubble"
+  },
+  "sc-hero-title": {
+    "it": "La Spugna di Bikini Bottom",
+    "en": "The Sponge of Bikini Bottom",
+    "bb": "Blub Blub-blub blub-blub Blub Blubb"
+  },
+  "sc-hero-subtitle": {
+    "it": "Il dolce più soffice dei sette mari.",
+    "en": "The softest dessert of the seven seas.",
+    "bb": "Blub-blub blubble blub blub blubb blubble blubb."
+  },
+  "sc-essence-title": {
+    "it": "L'Essenza della Spugna",
+    "en": "The Essence of the Sponge",
+    "bb": "Blubb'Blubble blubble Blub"
+  },
+  "sc-sponge-title": {
+    "it": "Pan di Spagna",
+    "en": "Sponge Cake",
+    "bb": "Blub-blub blubb Blubb"
+  },
+  "sc-sponge-p": {
+    "it": "Un capolavoro di morbidezza aromatizzato all'ananas che sfida le correnti! Soffice come una nuvola di bollicine, questo pan di spagna è reso unico da una trama alveolata pronta a catturare ogni sfumatura di dolcezza.",
+    "en": "A masterpiece of softness flavoured with pineapple that defies the currents! Fluffy as a cloud of bubbles, this sponge cake is made unique by its honeycomb texture, ready to capture every nuance of sweetness.",
+    "bb": "Blubble blub blubble blub blubble blub-blub'blubb blubb blub blub-blub blubb! Blubble blubb blubb blubble blubb blub, blubb blubble blub-blub blub-blub blubble blub-blub blubble blubble blub-blub blub blub blub-blub blubb blub blubb blub-blub blub-blub blubble."
+  },
+  "sc-pineapple-title": {
+    "it": "Duetto d'Ananas",
+    "en": "Pineapple Duet",
+    "bb": "Blub blub'Blubb"
+  },
+  "sc-pineapple-p": {
+    "it": "L'oro tropicale dei sette mari! Un connubio perfetto tra il cuore caramellato dei pezzi d'ananas e la freschezza pungente di una riduzione lucida, per un'esplosione di acidità che risveglia il palato.",
+    "en": "The tropical gold of the seven seas! A perfect blend of caramelised pineapple chunks and the sharp freshness of a glossy reduction, for an explosion of acidity that awakens the palate.",
+    "bb": "Blub-blub'blub-blub blubble blubb blub blubble! Blubble blubble blubble blub-blub blub-blub blubb blubb blub-blub blubble blub-blub'blubble blubb blub-blub blubble blub blubb blubble blub-blub blubb, blub blub'blubble blubb blubble blub blubb blub blub."
+  },
+  "sc-vanilla-title": {
+    "it": "Quenelle Bourbon",
+    "en": "Bourbon Quenelle",
+    "bb": "Blubb Blubble"
+  },
+  "sc-vanilla-p": {
+    "it": "Vellutata come la sabbia bianca delle isole lontane. Il contrasto perfetto per la porosità della spugna: una crema setosa punteggiata dai preziosi semi di baccelli di vaniglia, per un finale dolce e speziato.",
+    "en": "Velvety like white sand from faraway islands. The perfect contrast for the sponge's porosity: a silky cream studded with precious vanilla pod seeds, for a sweet and spiced finale.",
+    "bb": "Blubble blub blubb blubble blubb blub-blub blub blubble. Blub blubble blubble blubb blubb blub-blub blub blub-blub: blubb blubble blub-blub blub-blub blubb blub blub-blub blubble blubb blubble blub-blub, blub-blub blub blub blubble blub blub."
+  },
+  "sc-charity-title": {
+    "it": "Deliziati e proteggi l'ambiente",
+    "en": "Indulge and protect the environment",
+    "bb": "Blub blub-blub blubb blub-blub'blub-blub"
+  },
+  "sc-charity-p": {
+    "it": "Al Krusty Krab crediamo che ogni spugna meriti mari puliti e fondali accoglienti! Per questo, l'intero ricavato della vendita di questo dessert sarà devoluto alla <strong>Fondazione Barriera Porosa</strong>, impegnata nella tutela della flora e fauna della nostra splendida scogliera cristallina. Fai del bene, un dolce morso alla volta!",
+    "en": "At the Krusty Krab we believe every sponge deserves clean seas and welcoming seabeds! That's why all proceeds from this dessert go to the <strong>Porous Barrier Foundation</strong>, committed to protecting the flora and fauna of our beautiful crystal reef. Do good, one sweet bite at a time!",
+    "bb": "Blub-blub Blub-blub Blub-blub blubble blub blubble blub blubble blub-blub blub blub blubble blubble! Blub-blub blubble, blubble'blubble blub-blub blubble blub blub blub blubble blubb blub blubble <strong>Blub-blub Blub-blub Blub-blub</strong>, blub blub-blub blub-blub blubb blubb blubble blub-blub blub blubb blubble blubble blubb. Blub blubble blubble, blubb blubb blub blubb blub-blub!"
+  },
+  "sc-reviews-subtitle": {
+    "it": "I viaggiatori più coraggiosi del mare scelgono la Spugna di Bikini Bottom",
+    "en": "The bravest sea travellers choose the Sponge of Bikini Bottom",
+    "bb": "Blubb blubb blubble blub blubble blub-blub blub-blub blubble Blubb blub Blubble Blubb"
+  },
+  "home-p1": {
+    "it": "Benvenuto al <strong>Krusty Krab</strong>, il ristorante sottomarino dove <strong>ogni hamburger è una leggenda dei mari</strong>.",
+    "en": "Welcome to the <strong>Krusty Krab</strong>, the underwater restaurant where <strong>every burger is a legend of the seas</strong>.",
+    "bb": "Blubble blubb <strong>Blub Blub-blub</strong>, blubble blub-blub blub-blub blubble <strong>blubb blubb blubble blub blub-blub blub blub</strong>."
+  },
+  "home-p2": {
+    "it": "Scendi con noi nelle <strong>profondità di Bikini Bottom</strong>, tra luci oceaniche, vibrazioni tropicali e profumi che <strong>ti faranno perdere la bussola</strong>.",
+    "en": "Descend with us into the <strong>depths of Bikini Bottom</strong>, amidst oceanic lights, tropical vibes and scents that <strong>will make you lose your bearings</strong>.",
+    "bb": "Blubble blub-blub blubb blub-blub <strong>blubble blub-blub Blubble Blubb</strong>, blubble blubble blub-blub, blubble blubble blub-blub blubble blub-blub <strong>blubb blub-blub blubb blub blub</strong>."
+  },
+  "home-p3": {
+    "it": "Preparati a vivere un’esperienza unica nel suo genere. Assapora il famosissimo Krabby Patty e prova a scoprire l’ingrediente segreto.",
+    "en": "Get ready to live a unique experience. Savour the famous Krabby Patty and try to discover the secret ingredient.",
+    "bb": "Blubble blubb blubb blub’blubble blub blub blub-blub blub. Blubb blub-blub blubble Blub Blubb blubb blubb blubble blub blub-blub’blub blub."
+  },
+  "home-fortune-title": {
+    "it": "Cavalca le onde della fortuna",
+    "en": "Ride the waves of fortune",
+    "bb": "Blub blubb blubb blubb blubble"
+  },
+  "home-fortune-p": {
+    "it": "Gira la ruota e lascia che le onde del destino decidano. Scopri se hai vinto una Krusty Experience!",
+    "en": "Spin the wheel and let the waves of destiny decide. Find out if you won a Krusty Experience!",
+    "bb": "Blub-blub blub blub blub blubble blub blubble blub blub-blub blubble blub. Blubb blub-blub blubb blubble blubble Blubb Blub-blub!"
+  },
+  "home-wheel-spin-btn": {
+    "it": "Gira subito",
+    "en": "Spin now",
+    "bb": "Blub-blub"
+  },
+  "menu-krabby-p": {
+    "it": "La leggenda narra che nelle profondità del mare esista un hamburger capace di conquistare ogni palato.<br>Un morso del Krabby Patty e il segreto è svelato: pane dorato, hamburger succoso, cheddar fuso, bacon croccante, insalata fresca e pomodoro maturo... il tutto avvolto nella salsa segreta del Capitano.<br>Nessuno sa cosa la renda così irresistibile, e forse è meglio così.",
+    "en": "Legend has it that in the depths of the sea there is a burger capable of winning over any palate.<br>One bite of the Krabby Patty and the secret is revealed: golden bun, juicy burger, melted cheddar, crispy bacon, fresh lettuce and ripe tomato... all wrapped in the Captain's secret sauce.<br>No one knows what makes it so irresistible, and maybe it's better that way.",
+    "bb": "Blubb blub blub blub blubble blubb blubble blubb blubble blub-blub blub-blub blubb blubble blub-blub blubble blubb.<br>Blub blubb blubb Blub-blub Blub blubb blubb blubb blub blubble: blubble blubble, blubb blub, blub-blub blubb, blubb blubb, blub blub-blub blubb blubble blub-blub... blub-blub blub-blub blub blub-blub blubb blubb blubble Blubble.<br>Blub blub blubble blub blub blub-blub blub, blub blub-blub blubb blub-blub blub."
+  },
+  "menu-sides-p1": {
+    "it": "Croccanti bastoncini di mozzarella filante, rivestiti da una panatura dorata e fragrante - perfetti da stuzzicare prima del grande tuffo nel menù!",
+    "en": "Crispy mozzarella sticks, coated in a golden and fragrant breading - perfect to nibble on before the big dive into the menu!",
+    "bb": "Blub blub-blub blubb blub blubble, blub-blub blub-blub blub-blub blub blubb blub-blub blubble - blub blub blub blubble blub-blub blub blub blubb blubble!"
+  },
+  "menu-sides-p2": {
+    "it": "Croccanti come onde sulla battigia! Dorate al punto giusto, servite calde e salate al bacio del mare. Perfette da condividere… o da difendere come un vero pirata affamato!",
+    "en": "Crispy like waves on the shoreline! Golden just right, served hot and salted by the sea's kiss. Perfect to share… or to defend like a true hungry pirate!",
+    "bb": "Blubble blubble blub blub-blub blubb! Blub blub blub blub, blubble blubble blub-blub blubb blubb blub blub-blub blubble. Blubble blub blub-blub… blub blubb blub-blub blub-blub blub-blub blubb blub-blub blub-blub!"
+  },
+  "menu-sides-p3": {
+    "it": "Anelli d’oro del Capitano! Cipolle dolci avvolte in una panatura croccante che scricchiola come il ponte di una nave. Irresistibili con salsa BBQ o maionese!",
+    "en": "The Captain's golden rings! Sweet onions wrapped in a crispy breading that crunches like the deck of a ship. Irresistible with BBQ sauce or mayonnaise!",
+    "bb": "Blubb blub’blub-blub blub Blub-blub! Blub blub-blub blubb blubb blub-blub blubb blubble blubble blubb blub blubble blub blub-blub blubb blub-blub. Blubble blubb blubble Blub blubb blubble!"
+  },
+  "menu-kids-p": {
+    "it": "Un pasto completo per i più piccoli, servito direttamente nel nostro mitico forziere! Ogni Bottino contiene un piccolo Krabby Patty accompagnato da un mare di patatine croccanti, una bibita a scelta e, naturalmente... l'immancabile sorpresa del Capitano! Un giocattolo tutto da scoprire per continuare l'avventura anche dopo mangiato!",
+    "en": "A complete meal for the little ones, served directly in our legendary chest! Every Chest contains a small Krabby Patty accompanied by a sea of crispy fries, a drink of your choice and, of course... the Captain's inevitable surprise! A toy to discover to continue the adventure even after eating!",
+    "bb": "Blub blubb blubb blubble blub-blub blubble blub-blub, blubb blubble blubb blub-blub blub-blub blubble! Blub-blub Blubb blubble blubb blub-blub Blubb Blubble blub-blub blubble blub blub-blub blub-blub blubble blubble, blub-blub blub blub-blub blub-blub blubble, blub-blub... blub-blub'blub-blub blubb blub Blubb! Blub-blub blub blub-blub blub blub-blub blubble blub blubble'blubble blub-blub blub blubble!"
+  },
+  "menu-dessert-p": {
+    "it": "Non è una spugna qualunque: è un'esplosione di freschezza tropicale! Una torta sofficissima (Sponge Cake) all'ananas, arieggiata proprio come una spugna marina. Farcita con una delicata mousse al limone e miele e adagiata su 'sabbia' di biscotto dorato. Il finale perfetto dopo un Krabby Patty.",
+    "en": "It's not just any sponge: it's an explosion of tropical freshness! A very soft Sponge Cake with pineapple, airy just like a sea sponge. Filled with a delicate lemon and honey mousse and laid on golden biscuit 'sand'. The perfect finale after a Krabby Patty.",
+    "bb": "Blub blub-blub blubb blub-blub blubble: blub blubble'blub-blub blub-blub blub blub-blub! Blubb blubb blub (Blubb Blub-blub) blub'blub-blub, blubble blubb blubble blub blub blubble. Blub blubb blubble blubb blub-blub blub-blub blubble blubb blub blub blubb blub-blub 'blubb' blub blub blub-blub. Blub blubble blub blubble blub-blub Blubble Blubb."
+  },
+  "prize-1-p": {
+    "it": "Il premio per la ricetta che ha reso leggendario il Krabby Patty.",
+    "en": "The prize for the recipe that made the Krabby Patty legendary.",
+    "bb": "Blubble blub blubb blub-blub blubble blub blub blub-blub blubb blubb Blub Blub."
+  },
+  "prize-2-p": {
+    "it": "Vincitore per 3 anni consecutivi del premio per la pulizia e l'ospitalità subacquea.",
+    "en": "Winner for 3 consecutive years of the award for underwater cleanliness and hospitality.",
+    "bb": "Blubb blubble 3 blubb blub-blub blubble blub-blub blub-blub blubb blubble blub-blub blubb'blubb blub-blub."
+  },
+  "prize-3-p": {
+    "it": "Per la creatività che fa sorridere anche i pesci palla.",
+    "en": "For creativity that makes even pufferfish smile.",
+    "bb": "Blubb blubb blub-blub blub blub-blub blubble blubb blub-blub blub-blub blub-blub."
+  },
+  "prize-4-p": {
+    "it": "Assegnato ai piatti che hanno fatto dire al dio del mare: \"ne voglio un altro\".",
+    "en": "Awarded to the dishes that made the god of the sea say: \"I want another one\".",
+    "bb": "Blub-blub blubble blub blubb blubb blub-blub blub-blub blub-blub blub-blub blubble blubb: \"blubble blub blubble blubble\"."
+  },
+  "prize-5-p": {
+    "it": "Per le presentazioni più giocose, colorate e… scoppiettanti!",
+    "en": "For the most playful, colorful and... popping presentations!",
+    "bb": "Blubble blubble blubb blub blubb, blubble blub-blub… blubble!"
+  },
+  "prize-6-p": {
+    "it": "I piatti più votati dai nostri clienti, 5 onde su 5!",
+    "en": "Our customers' top rated dishes, 5 waves out of 5!",
+    "bb": "Blub blub blub-blub blubb blubb blubble blub-blub, 5 blub-blub blubb 5!"
+  },
+  "credits-hero-title": {
+    "it": "Credits",
+    "en": "Credits",
+    "bb": "Blubb"
+  },
+  "credits-hero-subtitle": {
+    "it": "Dietro le quinte del Krusty Krab",
+    "en": "Behind the scenes of the Krusty Krab",
+    "bb": "Blubble blubble blubb blub Blub Blubble"
+  },
+  "credits-dev-title": {
+    "it": "Sviluppo & Team",
+    "en": "Development & Team",
+    "bb": "Blubb & Blub-blub"
+  },
+  "credits-dev-p": {
+    "it": "Sviluppato con passione dal <strong>Team 3C2D</strong>:",
+    "en": "Developed with passion by <strong>Team 3C2D</strong>:",
+    "bb": "Blubb blubb blubb blub-blub <strong>Blubble 3Blub-blub2Blubb</strong>:"
+  },
+  "credits-visual-title": {
+    "it": "Visual Assets",
+    "en": "Visual Assets",
+    "bb": "Blubb Blub-blub"
+  },
+  "credits-visual-p": {
+    "it": "Tutte le immagini originali del personale, dei premi e degli elementi decorativi (sottomarino, meduse, bolle) sono state generate tramite <strong>Google Gemini AI</strong>.",
+    "en": "All original images of the staff, prizes and decorative elements (submarine, jellyfish, bubbles) were generated using <strong>Google Gemini AI</strong>.",
+    "bb": "Blub blub blub-blub blubb blub-blub blubb, blubble blubble blub blubble blub blubb (blubble, blub, blubb) blub blub blub blubble <strong>Blub Blubb Blub-blub</strong>."
+  },
+  "btn-book-now": {
+    "it": "Prenota ora",
+    "en": "Book now",
+    "bb": "Blubb blub-blub"
+  },
+  "btn-try-luck": {
+    "it": "Tenta la fortuna",
+    "en": "Try your luck",
+    "bb": "Blubb blub blubble"
+  },
+  "btn-discover-menu": {
+    "it": "Scopri il menù",
+    "en": "Discover the menu",
+    "bb": "Blubble blub blub"
+  },
+  "btn-meet-crew": {
+    "it": "Conosci il branco",
+    "en": "Meet the crew",
+    "bb": "Blubble blub blub"
+  },
+  "btn-discover-rest": {
+    "it": "Scopri il ristorante",
+    "en": "Discover the restaurant",
+    "bb": "Blubb blubb blub"
+  },
+  "btn-discover-more": {
+    "it": "Scopri di più",
+    "en": "Discover more",
+    "bb": "Blub blub blub"
+  },
+  "btn-confirm-sel": {
+    "it": "Conferma Selezione",
+    "en": "Confirm Selection",
+    "bb": "Blubb Blubb"
+  },
+  "btn-next-step": {
+    "it": "Prossimo Step",
+    "en": "Next Step",
+    "bb": "Blubb Blub"
+  },
+  "btn-confirm": {
+    "it": "Conferma",
+    "en": "Confirm",
+    "bb": "Blub"
+  },
+  "btn-confirm-data": {
+    "it": "Conferma Dati",
+    "en": "Confirm Data",
+    "bb": "Blubb Blubb"
+  },
+  "btn-new-booking": {
+    "it": "Nuova Prenotazione",
+    "en": "New Booking",
+    "bb": "Blub-blub Blubble"
+  },
+  "lang-it": {
+    "it": "ITA",
+    "en": "ITA",
+    "bb": "ITA"
+  },
+  "lang-en": {
+    "it": "ENG",
+    "en": "ENG",
+    "bb": "ENG"
+  },
+  "lang-bb": {
+    "it": "PES",
+    "en": "PES",
+    "bb": "PES"
+  },
+  "prize-1-title": {
+    "it": "Perla d'Oro",
+    "en": "Golden Pearl",
+    "bb": "Blubble blub"
+  },
+  "prize-2-title": {
+    "it": "Stella dei Sette Mari",
+    "en": "Seven Seas Star",
+    "bb": "Blub blub Blubble"
+  },
+  "prize-3-title": {
+    "it": "Medaglia del Corallo",
+    "en": "Coral Medal",
+    "bb": "Blubb blub Blub"
+  },
+  "prize-4-title": {
+    "it": "Poseidone's Choice",
+    "en": "Poseidon's Choice",
+    "bb": "Blub-blub'Blubble"
+  },
+  "prize-5-title": {
+    "it": "Trofeo Bolla Perfetta",
+    "en": "Perfect Bubble Trophy",
+    "bb": "Blub-blub Blubb Blubble"
+  },
+  "prize-6-title": {
+    "it": "Onde di soddisfazione",
+    "en": "Waves of Satisfaction",
+    "bb": "Blub-blub blub-blub"
+  },
+  "menu-dish-mozzarella": {
+    "it": "Mozzarelline Fingers",
+    "en": "Mozzarella Sticks",
+    "bb": "Blub-blub Blub"
+  },
+  "menu-dish-fries": {
+    "it": "Patatine Fritte",
+    "en": "French Fries",
+    "bb": "Blubb Blub"
+  },
+  "menu-dish-onion": {
+    "it": "Onion Rings",
+    "en": "Onion Rings",
+    "bb": "Blub-blub Blub"
+  },
+  "marquee-motto": {
+    "it": "Dive into flavour",
+    "en": "Dive into flavour",
+    "bb": "Blub blub-blub blubble"
+  },
+  "home-delivery-title": {
+    "it": "Dal mare a casa tua",
+    "en": "From the sea to your home",
+    "bb": "Blub blub blub-blub blub"
+  },
+  "home-delivery-p": {
+    "it": "Goditi un Krusty Menu senza muoverti dal divano. Ordina subito con i migliori delivery.",
+    "en": "Enjoy a Krusty Menu without moving from your sofa. Order now with the best delivery services.",
+    "bb": "Blub-blub blub Blubb Blub-blub blub blub-blub blub blub blubb. Blub blub-blub blub blub blubb blub-blub."
+  },
+  "btn-order-now": {
+    "it": "Ordina ora",
+    "en": "Order now",
+    "bb": "Blub-blub blub"
+  },
+  "booking-alert-cancel": {
+    "it": "Sei sicuro di voler annullare la prenotazione?",
+    "en": "Are you sure you want to cancel the reservation?",
+    "bb": "Blub-blub blub blub blubb blub-blub?"
+  },
+  "booking-alert-edit": {
+    "it": "Vuoi modificare la tua prenotazione?",
+    "en": "Do you want to edit your reservation?",
+    "bb": "Blub-blub blub blub blubb blub-blub?"
+  },
+  "booking-alert-discount-success": {
+    "it": "Codice \"{code}\" applicato con successo!",
+    "en": "Code \"{code}\" applied successfully!",
+    "bb": "Blubb \"{code}\" blub blub!"
+  },
+  "booking-alert-discount-error": {
+    "it": "Inserisci un codice valido.",
+    "en": "Please enter a valid code.",
+    "bb": "Blub blub-blub blub."
+  },
+  "day-0": {
+    "it": "Domenica",
+    "en": "Sunday",
+    "bb": "Blubble"
+  },
+  "day-0-short": {
+    "it": "D",
+    "en": "S",
+    "bb": "B"
+  },
+  "day-1": {
+    "it": "Lunedì",
+    "en": "Monday",
+    "bb": "Blub"
+  },
+  "day-1-short": {
+    "it": "L",
+    "en": "M",
+    "bb": "B"
+  },
+  "day-2": {
+    "it": "Martedì",
+    "en": "Tuesday",
+    "bb": "Blubb"
+  },
+  "day-2-short": {
+    "it": "M",
+    "en": "T",
+    "bb": "B"
+  },
+  "day-3": {
+    "it": "Mercoledì",
+    "en": "Wednesday",
+    "bb": "Blub-blub"
+  },
+  "day-3-short": {
+    "it": "M",
+    "en": "W",
+    "bb": "B"
+  },
+  "day-4": {
+    "it": "Giovedì",
+    "en": "Thursday",
+    "bb": "Blubble"
+  },
+  "day-4-short": {
+    "it": "G",
+    "en": "T",
+    "bb": "B"
+  },
+  "day-5": {
+    "it": "Venerdì",
+    "en": "Friday",
+    "bb": "Blub"
+  },
+  "day-5-short": {
+    "it": "V",
+    "en": "F",
+    "bb": "B"
+  },
+  "day-6": {
+    "it": "Sabato",
+    "en": "Saturday",
+    "bb": "Blubb"
+  },
+  "day-6-short": {
+    "it": "S",
+    "en": "S",
+    "bb": "B"
+  },
+  "month-0": {
+    "it": "Gennaio",
+    "en": "January",
+    "bb": "Blub"
+  },
+  "month-1": {
+    "it": "Febbraio",
+    "en": "February",
+    "bb": "Blubb"
+  },
+  "month-2": {
+    "it": "Marzo",
+    "en": "March",
+    "bb": "Blubble"
+  },
+  "month-3": {
+    "it": "Aprile",
+    "en": "April",
+    "bb": "Blub-blub"
+  },
+  "month-4": {
+    "it": "Maggio",
+    "en": "May",
+    "bb": "Blub"
+  },
+  "month-5": {
+    "it": "Giugno",
+    "en": "June",
+    "bb": "Blubb"
+  },
+  "month-6": {
+    "it": "Luglio",
+    "en": "July",
+    "bb": "Blubble"
+  },
+  "month-7": {
+    "it": "Agosto",
+    "en": "August",
+    "bb": "Blub-blub"
+  },
+  "month-8": {
+    "it": "Settembre",
+    "en": "September",
+    "bb": "Blub"
+  },
+  "month-9": {
+    "it": "Ottobre",
+    "en": "October",
+    "bb": "Blubb"
+  },
+  "month-10": {
+    "it": "Novembre",
+    "en": "November",
+    "bb": "Blubble"
+  },
+  "month-11": {
+    "it": "Dicembre",
+    "en": "December",
+    "bb": "Blub-blub"
+  },
+  "table-window": {
+    "it": "Vicino alla vetrata panoramica",
+    "en": "Near the panoramic window",
+    "bb": "Blubb blubble blubble blubb"
+  },
+  "table-coral": {
+    "it": "Tra i coralli",
+    "en": "Among the corals",
+    "bb": "Blub blubb blubble"
+  },
+  "table-aquarium": {
+    "it": "Accanto all'acquario",
+    "en": "Next to the aquarium",
+    "bb": "Blubble blub-blub'blub-blub"
+  },
+  "booking-mascot-1": {
+    "it": "Stai navigando<br>verso il tesoro...",
+    "en": "You are sailing<br>towards the treasure...",
+    "bb": "Blub-blub blub-blub<br>blub-blub blubb blubble..."
+  },
+  "booking-mascot-2": {
+    "it": "Manca poco alla<br>tua destinazione!",
+    "en": "You are close to<br>your destination!",
+    "bb": "Blub blub-blub blub-blub<br>blub blub-blub!"
+  },
+  "booking-mascot-3": {
+    "it": "Siamo pronti per<br>salpare!",
+    "en": "We are ready to<br>sail!",
+    "bb": "Blub-blub blub blub-blub<br>blub-blub!"
+  },
+  "booking-mascot-4": {
+    "it": "La tua avventura<br>sta per iniziare!",
+    "en": "Your adventure<br>is about to begin!",
+    "bb": "Blubb blub-blub blub-blub<br>blub blub-blub!"
+  },
+  "booking-summary-people": {
+    "it": "Persone",
+    "en": "People",
+    "bb": "Blubb"
+  },
+  "wheel-prize-0": {
+    "it": "Krabby Patty Gratis!",
+    "en": "Free Krabby Patty!",
+    "bb": "Blubb Blubble Blub!"
+  },
+  "wheel-prize-1": {
+    "it": "50% Sconto Combo",
+    "en": "50% Combo Discount",
+    "bb": "50% Blub-blub Blubb"
+  },
+  "wheel-prize-2": {
+    "it": "Anelli di Cipolla Gratis",
+    "en": "Free Onion Rings",
+    "bb": "Blub-blub Blub-blub Gratis"
+  },
+  "wheel-prize-3": {
+    "it": "2x1 Mozzarelline Fingers",
+    "en": "2x1 Mozzarella Sticks",
+    "bb": "2x1 Blubb Blubble"
+  },
+  "wheel-prize-4": {
+    "it": "10% Sconto Ordine",
+    "en": "10% Order Discount",
+    "bb": "10% Blub-blub Blub"
+  },
+  "wheel-prize-5": {
+    "it": "Patatine Fritte Gratis",
+    "en": "Free French Fries",
+    "bb": "Blub-blub Blub Gratis"
+  },
+  "wheel-prize-6": {
+    "it": "2x1 Krabby Patty",
+    "en": "2x1 Krabby Patty",
+    "bb": "2x1 Blub-blub Blub"
+  },
+  "wheel-prize-7": {
+    "it": "5% Sconto Ordine",
+    "en": "5% Order Discount",
+    "bb": "5% Blub-blub Blub"
+  },
+  "wheel-back-tomorrow": {
+    "it": "Torna domani!",
+    "en": "Come back tomorrow!",
+    "bb": "Blub blub-blub!"
+  },
+  "aria-home-link": {
+    "it": "Torna alla Home",
+    "en": "Go to Home",
+    "bb": "Blub blubble Blubble"
+  },
+  "aria-open-menu": {
+    "it": "Apri menu",
+    "en": "Open menu",
+    "bb": "Blub blub"
+  },
+  "aria-main-nav": {
+    "it": "Navigazione principale",
+    "en": "Main navigation",
+    "bb": "Blubble blub-blub"
+  },
+  "aria-lang-switcher": {
+    "it": "Cambia Lingua",
+    "en": "Change Language",
+    "bb": "Blub Blubble"
+  },
+  "aria-social-instagram": {
+    "it": "Visita il nostro Instagram",
+    "en": "Visit our Instagram",
+    "bb": "Blub blub-blub Blubble"
+  },
+  "aria-social-tiktok": {
+    "it": "Visita il nostro TikTok",
+    "en": "Visit our TikTok",
+    "bb": "Blub blub-blub Blubble"
+  },
+  "aria-social-x": {
+    "it": "Visita il nostro profilo X",
+    "en": "Visit our X profile",
+    "bb": "Blub blub-blub Blubble"
+  },
+  "aria-social-facebook": {
+    "it": "Visita il nostro Facebook",
+    "en": "Visit our Facebook",
+    "bb": "Blub blub-blub Blubble"
+  },
+  "aria-carousel-prev": {
+    "it": "Precedente",
+    "en": "Previous",
+    "bb": "Blub-blub"
+  },
+  "aria-carousel-next": {
+    "it": "Successivo",
+    "en": "Next",
+    "bb": "Blub"
+  },
+  "aria-video-cake": {
+    "it": "Video: La torta che mi merito",
+    "en": "Video: The cake I deserve",
+    "bb": "Blub: Blub blub-blub blub blubb"
+  },
+  "aria-video-krabby-race": {
+    "it": "Video: Corsa per il Krabby Patty",
+    "en": "Video: Race for the Krabby Patty",
+    "bb": "Blub: Blub-blub blub-blub blub Blub-blub Blub"
+  },
+  "aria-video-krabby-secret": {
+    "it": "Video: Il segreto del Krabby Patty",
+    "en": "Video: The secret of the Krabby Patty",
+    "bb": "Blub: Blub blub-blub blubb Blub-blub Blub"
+  },
+  "aria-booking-minus": {
+    "it": "Riduci ospiti",
+    "en": "Decrease guests",
+    "bb": "Blub blub-blub"
+  },
+  "aria-booking-plus": {
+    "it": "Aggiungi ospiti",
+    "en": "Increase guests",
+    "bb": "Blubb blub-blub"
+  },
+  "aria-calendar-prev": {
+    "it": "Mese precedente",
+    "en": "Previous month",
+    "bb": "Blub blubb"
+  },
+  "aria-calendar-next": {
+    "it": "Mese successivo",
+    "en": "Next month",
+    "bb": "Blubb blubb"
+  },
+  "footer-hours-title": {
+    "it": "Orari di apertura",
+    "en": "Opening hours",
+    "bb": "Blubb blub"
+  },
+  "footer-hours-txt": {
+    "it": "da Lunedì a Domenica<br>Pranzo: 12:00 - 15:00<br>Cena: 19:00 - 23:00",
+    "en": "from Monday to Sunday<br>Lunch: 12:00 - 15:00<br>Dinner: 19:00 - 23:00",
+    "bb": "Blub - Blubb<br>Blub: 12:00 - 15:00<br>Blubb: 19:00 - 23:00"
+  },
+  "menu-filter-label": {
+    "it": "Filtra per allergeni",
+    "en": "Filter by allergens",
+    "bb": "Blub-blub Blubblub"
+  },
+  "menu-filter-gluten": {
+    "it": "Senza Glutine",
+    "en": "Gluten Free",
+    "bb": "Blub Blubb"
+  },
+  "menu-filter-dairy": {
+    "it": "Senza Lattosio",
+    "en": "Dairy Free",
+    "bb": "Blubb Blubble"
+  },
+  "menu-filter-sesame": {
+    "it": "Senza Sesamo",
+    "en": "Sesame Free",
+    "bb": "Blubble Blub"
+  }
+}
