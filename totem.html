@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="it" data-theme="archive">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#1c1917">
+    <title>Totem · Progetti CVeDI</title>
+    <link rel="stylesheet" href="gallery.css">
+    <link rel="stylesheet" href="totem.css">
+    <script src="totem.js" defer></script>
+  </head>
+  <body class="totem-viewer">
+    <header class="totem-toolbar">
+      <a class="btn btn-ghost" href="./" aria-label="Torna all’archivio dei progetti">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" aria-hidden="true"><path d="m14 6-6 6 6 6"/></svg>
+        Progetti
+      </a>
+      <h1 id="totem-title">Totem</h1>
+      <div class="totem-controls" role="group" aria-label="Visualizzazione del totem">
+        <button id="totem-zoom" class="btn" type="button" aria-pressed="false" disabled>Ingrandisci</button>
+        <a id="totem-original" class="btn btn-ghost" hidden>Apri originale</a>
+      </div>
+    </header>
+    <main id="totem-stage" class="totem-stage" aria-label="Progetto interattivo">
+      <p id="totem-status" class="totem-status" role="status">Caricamento del totem…</p>
+      <div id="totem-canvas" class="totem-canvas" hidden>
+        <iframe id="totem-frame" title="Progetto totem" allow="autoplay; fullscreen"></iframe>
+      </div>
+    </main>
+    <noscript><p>Attiva JavaScript per visualizzare il totem.</p></noscript>
+  </body>
+</html>

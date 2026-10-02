@@ -68,7 +68,13 @@ function createCard(project, index) {
   const card = cardTemplate.content.firstElementChild.cloneNode(true);
   const link = card.querySelector('a');
   const image = document.createElement('img');
-  link.href = project.url;
+  if (project.screen) {
+    const viewer = new URL('totem.html', location.href);
+    viewer.searchParams.set('project', project.archivePath);
+    link.href = viewer.href;
+  } else {
+    link.href = project.url;
+  }
   link.setAttribute('aria-label', `Apri ${project.name} (nuova scheda)`);
   card.querySelector('.project-caption').prepend(makeElement('h3', 'card-title', project.name));
   image.alt = `Anteprima del progetto ${project.name}`;
@@ -172,7 +178,11 @@ async function loadGalleryData() {
       if (url.origin !== archiveURL.origin || !url.pathname.startsWith(archiveURL.pathname) || !url.pathname.endsWith('/') || url.search || url.hash) {
         throw new Error('Invalid project URL');
       }
-      return { name: photo.name, year: photo['A.A.'], url: url.href, searchName: normalize(photo.name) };
+      return {
+        name: photo.name, year: photo['A.A.'], url: url.href,
+        archivePath: photo.url.replace(/^\/+/, ''), screen: photo.screen,
+        searchName: normalize(photo.name),
+      };
     });
     years = [...new Set(projects.map(project => project.year))].sort().reverse();
     summary.textContent = `${projectCount(projects.length)} · ${years.length} ${years.length === 1 ? 'anno accademico' : 'anni accademici'}`;

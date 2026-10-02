@@ -313,17 +313,29 @@
     {
       "name": "AstroMed",
       "A.A.": "2024-2025",
-      "url": "/a.a.2024_2025/AstroMed/"
+      "url": "/a.a.2024_2025/AstroMed/",
+      "screen": {
+        "width": 1366,
+        "height": 1024
+      }
     },
     {
       "name": "AstroVeggie",
       "A.A.": "2024-2025",
-      "url": "/a.a.2024_2025/AstroVeggie/"
+      "url": "/a.a.2024_2025/AstroVeggie/",
+      "screen": {
+        "width": 7016,
+        "height": 9933
+      }
     },
     {
       "name": "Progetto CVeDI-consegna",
       "A.A.": "2024-2025",
-      "url": "/a.a.2024_2025/Progetto_CVeDI-consegna/"
+      "url": "/a.a.2024_2025/Progetto_CVeDI-consegna/",
+      "screen": {
+        "width": 1920,
+        "height": 1080
+      }
     },
     {
       "name": "Temporal-Paws",
@@ -333,17 +345,35 @@
     {
       "name": "Totem Magrathea",
       "A.A.": "2024-2025",
-      "url": "/a.a.2024_2025/Totem_Magrathea/"
+      "url": "/a.a.2024_2025/Totem_Magrathea/",
+      "screen": {
+        "width": 2160,
+        "height": 3840,
+        "pages": {
+          "9_tabellone.html": {
+            "width": 3000,
+            "height": 2000
+          }
+        }
+      }
     },
     {
       "name": "Xylos",
       "A.A.": "2024-2025",
-      "url": "/a.a.2024_2025/Xylos/"
+      "url": "/a.a.2024_2025/Xylos/",
+      "screen": {
+        "width": 1890,
+        "height": 3024
+      }
     },
     {
       "name": "Nexus",
       "A.A.": "2024-2025",
-      "url": "/a.a.2024_2025/nexus/"
+      "url": "/a.a.2024_2025/nexus/",
+      "screen": {
+        "width": 1920,
+        "height": 1080
+      }
     },
     {
       "name": "Aroma",
