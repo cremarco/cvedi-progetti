@@ -1,10 +1,10 @@
 const projectBriefs = {
-  '2020-2021': 'Siti web per organizzazioni no-profit e associazioni di volontariato',
-  '2021-2022': 'Portali web per città immaginarie e ambientazioni fantasy',
-  '2022-2023': 'Piattaforme web per progetti di sostenibilità ambientale',
-  '2023-2024': 'Siti e-commerce per prodotti creativi e marketplace tematici',
-  '2024-2025': 'Interfacce utente per sistemi totem e display interattivi',
-  '2025-2026': 'Siti web per ristoranti e concept gastronomici',
+  '2020-2021': 'Analisi e riprogettazione di siti di organizzazioni no-profit e ONLUS con finalità sociali o culturali. Il brief richiede un sito responsive progettato a partire dai bisogni delle persone, con attenzione a contenuti, navigazione e identità visiva.',
+  '2021-2022': 'Siti responsive per realtà urbane immaginarie, di cui inventare il luogo, il contesto e le caratteristiche. Il percorso presenta la città, approfondisce almeno due servizi e spiega come accedere alla realtà proposta.',
+  '2022-2023': 'Siti responsive dedicati a iniziative legate a uno dei 17 obiettivi dell’Agenda 2030 per lo sviluppo sostenibile, oppure a un e-commerce di prodotti. Missione, servizi o prodotti, eventi e contenuti editoriali danno forma all’identità del progetto.',
+  '2023-2024': 'Siti responsive per aziende immaginarie con prodotti e servizi fantastici: viaggi nel tempo, cucina interstellare e oggetti magici. Identità del brand, cataloghi e interazioni traducono il brief del cliente in un’esperienza coerente e accessibile.',
+  '2024-2025': 'Interfacce per totem self-service dedicati a biglietti metro, informazioni turistiche, ordini al fast-food, check-in aeroportuale o prenotazioni mediche. Percorsi brevi, comandi leggibili e accessibilità guidano l’interazione.',
+  '2025-2026': 'Siti responsive per ristoranti immaginari, con libertà creativa su ambienti, piatti e concept gastronomici. Il percorso permette di scoprire il locale, consultare menù, ingredienti e allergeni e prenotare un tavolo.',
 };
 
 const container = document.querySelector('#gallery-container');
