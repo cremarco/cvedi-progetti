@@ -39,7 +39,8 @@ def main() -> int:
     args = parser.parse_args()
     root = args.root.resolve()
     pages = [
-        path for path in root.rglob("*")
+        path for year in root.glob("a.a.*") if year.is_dir()
+        for path in year.rglob("*")
         if path.is_file() and path.suffix.lower() in {".html", ".htm"}
         and "node_modules" not in path.parts
     ]

@@ -30,6 +30,11 @@ jobs:
         env:
           PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD: '1'
       - uses: actions/configure-pages@v6.0.0
+      - name: Check archive links
+        run: |
+          python3 -m venv /tmp/cvedi-links
+          /tmp/cvedi-links/bin/pip install -r requirements-checks.txt
+          /tmp/cvedi-links/bin/python scripts/check/site-links.py
       - name: Build project archive
         run: pnpm build
         env:

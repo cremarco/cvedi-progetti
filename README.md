@@ -12,6 +12,7 @@ La galleria mantiene il tema daisyUI `archive`, il catalogo `gallery-data.json`,
 pnpm install --frozen-lockfile
 pnpm build
 pnpm check:indexing
+python3 -m pip install -r requirements-checks.txt
 pnpm check:links
 ```
 
