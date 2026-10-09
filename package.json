@@ -1,0 +1,23 @@
+{
+  "name": "cvedi-progetti",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "packageManager": "pnpm@10.13.1",
+  "engines": {
+    "node": ">=22.12.0"
+  },
+  "scripts": {
+    "css": "node node_modules/@tailwindcss/cli/dist/index.mjs -i gallery.source.css -o gallery.css --minify",
+    "build": "pnpm css && node scripts/build/pages.mjs",
+    "check:projects": "node scripts/check/projects.mjs",
+    "check:links": "python3 scripts/check/site-links.py",
+    "check:indexing": "node --test scripts/check/indexing.test.mjs && node scripts/check/indexing.mjs"
+  },
+  "devDependencies": {
+    "@tailwindcss/cli": "4.3.3",
+    "daisyui": "5.7.46",
+    "tailwindcss": "4.3.3",
+    "playwright-chromium": "1.63.0"
+  }
+}

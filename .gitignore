@@ -1,0 +1,9 @@
+node_modules
+_site/
+reports/
+.DS_Store
+._*
+[Dd]esktop.ini
+[Tt]humbs.db
+__pycache__/
+*.pyc
